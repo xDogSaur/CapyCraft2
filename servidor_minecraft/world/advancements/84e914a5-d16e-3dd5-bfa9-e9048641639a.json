@@ -28157,6 +28157,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-21 06:32:57 +0000",
+      "minecraft:nether_wastes": "2024-12-21 06:33:08 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
@@ -28490,6 +28497,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-21 06:32:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
@@ -28602,6 +28615,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 06:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-21 06:32:56 +0000"
     },
     "done": true
   },

@@ -7568,6 +7568,12 @@
     },
     "done": true
   },
+  "obs:ob/redstone": {
+    "criteria": {
+      "cobble": "2024-12-21 06:37:14 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/bricks": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -7811,6 +7817,12 @@
   "alchemistry:recipes/compactor/gadolinium_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-21 06:33:10 +0000"
     },
     "done": true
   },
@@ -17729,6 +17741,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-21 06:32:59 +0000"
     },
     "done": true
   },
