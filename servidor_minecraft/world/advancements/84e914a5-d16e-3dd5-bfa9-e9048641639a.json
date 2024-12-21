@@ -314,6 +314,7 @@
       "minecraft:beach": "2024-12-21 22:21:36 +0000",
       "minecraft:river": "2024-12-21 22:01:12 +0000",
       "minecraft:snowy_taiga": "2024-12-21 21:15:01 +0000",
+      "minecraft:cold_ocean": "2024-12-21 23:42:55 +0000",
       "minecraft:forest": "2024-12-21 21:12:52 +0000",
       "minecraft:plains": "2024-12-21 21:21:33 +0000"
     },
@@ -1260,6 +1261,7 @@
       "cooked_porkchop": "2024-12-21 22:25:00 +0000",
       "cooked_beef": "2024-12-21 21:40:31 +0000",
       "apple": "2024-12-21 21:29:02 +0000",
+      "cooked_cod": "2024-12-21 23:50:36 +0000",
       "bread": "2024-12-21 22:09:42 +0000",
       "golden_apple": "2024-12-21 22:48:03 +0000",
       "rotten_flesh": "2024-12-21 21:38:57 +0000",
@@ -5998,6 +6000,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-21 23:50:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
     "criteria": {
       "cooked_salmon_slice": "2024-12-21 23:31:31 +0000"
@@ -6034,9 +6042,27 @@
     },
     "done": true
   },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2024-12-21 23:44:53 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2024-12-21 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-21 23:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-21 23:50:00 +0000"
     },
     "done": true
   },
