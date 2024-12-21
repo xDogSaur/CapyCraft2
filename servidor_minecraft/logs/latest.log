@@ -2323,3 +2323,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 23:24:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
 [21Dec2024 23:26:11.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
 [21Dec2024 23:33:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Free Willy]
+[21Dec2024 23:35:03.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=54, z=-38} BlockPos{x=356, y=53, z=-35}
+[21Dec2024 23:35:03.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=54, z=-38} BlockPos{x=356, y=53, z=-35}
+[21Dec2024 23:35:03.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=54, z=-38} BlockPos{x=356, y=53, z=-35}
+[21Dec2024 23:35:03.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=356, y=54, z=-38} BlockPos{x=356, y=53, z=-35}
+[21Dec2024 23:35:05.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=361, y=54, z=-36} BlockPos{x=361, y=53, z=-36}
+[21Dec2024 23:35:11.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=54, z=-47} BlockPos{x=368, y=53, z=-47}
+[21Dec2024 23:35:17.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 23:35:18.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 23:36:57.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Ice Bucket Challenge]
+[21Dec2024 23:37:01.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 23:37:07.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 23:42:07.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 23:42:09.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 23:42:25.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
