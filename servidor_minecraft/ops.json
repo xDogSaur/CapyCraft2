@@ -16,5 +16,11 @@
     "name": "xDogSaur",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a0cb97f0-9436-34e7-9652-66b5a55953ed",
+    "name": "benyaneitor",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
