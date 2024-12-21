@@ -1545,3 +1545,33 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 08:16:51.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Crops of the Wild]
 [21Dec2024 08:17:43.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [21Dec2024 08:19:06.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Enchanter]
+[21Dec2024 08:21:08.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 08:21:10.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 08:21:58.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 08:22:01.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor a server operator]
+[21Dec2024 08:22:08.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benyaneitor lost connection: Timed out
+[21Dec2024 08:22:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor left the game
+[21Dec2024 08:22:20.129] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 08:22:20.142] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 08:22:20.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benyaneitor[/127.240.213.114:54319] logged in with entity id 7607 at (-5.897833732016163, 61.53584062504456, -4.322400093268087)
+[21Dec2024 08:22:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor joined the game
+[21Dec2024 08:22:20.289] [Server thread/INFO] [Jade/]: Syncing config to benyaneitor (a0cb97f0-9436-34e7-9652-66b5a55953ed)
+[21Dec2024 08:22:53.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benyaneitor lost connection: Disconnected
+[21Dec2024 08:22:53.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor left the game
+[21Dec2024 08:23:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 08:23:47.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.240.213.114:41929] logged in with entity id 7608 at (5.5, 61.0, -1.5)
+[21Dec2024 08:23:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[21Dec2024 08:23:48.019] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[21Dec2024 08:23:49.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Welcome to OneBlock]
+[21Dec2024 08:23:49.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2104ms or 42 ticks behind
+[21Dec2024 08:24:06.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 08:24:16.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 50 [Ice] to xDogSaur]
+[21Dec2024 08:24:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 08:24:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Suit Up]
+[21Dec2024 08:24:26.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Apothic Affixes]
+[21Dec2024 08:24:26.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [He Wasn't So Strong]
+[21Dec2024 08:24:31.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hunt and Gather]
+[21Dec2024 08:25:57.243] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Dec2024 08:25:57.244] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Dec2024 08:26:35.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hot Stuff]
+[21Dec2024 08:27:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Monster Hunter]
