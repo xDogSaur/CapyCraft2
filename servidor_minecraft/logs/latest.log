@@ -2151,3 +2151,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 21:32:00.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Getting an Upgrade]
 [21Dec2024 21:32:13.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Acquire Hardware]
 [21Dec2024 21:32:17.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Isn't It Iron Pick]
+[21Dec2024 21:33:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [I Found It Underground]
+[21Dec2024 21:33:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Apothic Affixes]
+[21Dec2024 21:34:13.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21Dec2024 21:34:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Monster Hunter]
+[21Dec2024 21:35:51.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21Dec2024 21:36:30.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[21Dec2024 21:36:31.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Suit Up]
+[21Dec2024 21:36:48.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[21Dec2024 21:37:17.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Not a Diamond]
+[21Dec2024 21:37:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Far From Perfect]
+[21Dec2024 21:37:30.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[21Dec2024 21:37:36.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Diamonds!]
+[21Dec2024 21:38:19.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Chest Slayer]
+[21Dec2024 21:38:24.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Amateur Archaeologist]
+[21Dec2024 21:38:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Not a Diamond]
+[21Dec2024 21:39:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 21:39:33.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Ben no longer a server operator]
+[21Dec2024 21:39:35.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 21:39:38.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 21:39:40.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made xDogSaur no longer a server operator]
+[21Dec2024 21:39:42.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Acquire Hardware]
+[21Dec2024 21:39:44.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Diamonds!]
+[21Dec2024 21:39:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made xDogSaur a server operator
+[21Dec2024 21:39:59.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 21:40:08.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to Afarfa]
+[21Dec2024 21:40:09.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro froze to death
+[21Dec2024 21:40:11.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Acquire Hardware]
+[21Dec2024 21:40:13.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 21:40:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 21:40:20.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 21:40:22.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 21:40:24.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 21:40:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to Afarfa]
+[21Dec2024 21:41:11.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Not Today, Thank You]
+[21Dec2024 21:41:24.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Sweet Dreams]
+[21Dec2024 21:41:50.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa froze to death
+[21Dec2024 21:42:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Sweet Dreams]
+[21Dec2024 21:42:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gamerule playersSleepingPercentage is now set to: 1]
