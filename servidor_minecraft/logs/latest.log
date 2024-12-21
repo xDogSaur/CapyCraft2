@@ -2288,3 +2288,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:51:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Take Aim]
 [21Dec2024 22:52:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was blown up by Cave Creeper
 [21Dec2024 22:52:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[21Dec2024 22:54:35.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Kuro]
+[21Dec2024 22:57:29.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[21Dec2024 22:57:29.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[21Dec2024 22:58:01.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:42111] logged in with entity id 28991 at (326.9443725803103, 63.0, -49.682373467117294)
+[21Dec2024 22:58:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[21Dec2024 22:58:01.308] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[21Dec2024 23:01:41.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Bonk!]
