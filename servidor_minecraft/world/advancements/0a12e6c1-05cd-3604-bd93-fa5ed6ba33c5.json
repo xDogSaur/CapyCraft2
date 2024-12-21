@@ -28524,15 +28524,28 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-12-21 05:56:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-12-21 05:10:34 +0000"
+      "sugar_cane": "2024-12-21 05:10:34 +0000",
+      "carrot": "2024-12-21 05:53:39 +0000"
     },
     "done": false
   },
   "obs:phases/phase_8": {
     "criteria": {
       "phase1": "2024-12-21 05:17:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2024-12-21 05:56:12 +0000"
     },
     "done": true
   },

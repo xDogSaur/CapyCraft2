@@ -1571,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-21 05:55:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/transformation_trapdoor": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -19051,6 +19057,12 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "cobble": "2024-12-21 05:57:07 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/time_planks": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -23807,6 +23819,12 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/cobblemania": {
+    "criteria": {
+      "cobble": "2024-12-21 05:50:14 +0000"
     },
     "done": true
   },

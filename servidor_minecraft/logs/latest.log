@@ -1446,3 +1446,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 05:48:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuro: Made benyaneitor a server operator]
 [21Dec2024 05:48:35.235] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/3497, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1048.16, z=0.50] died, message: 'Visiting Trader fell out of the world'
 [21Dec2024 05:48:35.236] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/3497, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1048.16, z=0.50] died: Visiting Trader fell out of the world
+[21Dec2024 05:50:14.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Cobblemania]
+[21Dec2024 05:51:45.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/3821, l='ServerLevel[Oneblock Original v2.1.1]', x=-37.30, y=61.00, z=0.79] died: Undead Knight was slain by xDogSaur
+[21Dec2024 05:51:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Worthy Equipment]
+[21Dec2024 05:55:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Fishy Business]
+[21Dec2024 05:56:12.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Tools of the Trade]
+[21Dec2024 05:57:07.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Hot and Coal]
