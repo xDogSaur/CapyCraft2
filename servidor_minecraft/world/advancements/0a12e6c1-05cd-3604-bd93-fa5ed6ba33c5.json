@@ -3087,6 +3087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-21 22:25:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2024-12-21 22:04:14 +0000"
@@ -3117,6 +3123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 22:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-21 22:00:51 +0000"
@@ -3134,6 +3146,12 @@
       "has_planks": "2024-12-21 22:11:03 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-21 22:24:46 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
@@ -3180,6 +3198,12 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-21 22:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-21 22:27:13 +0000"
     },
     "done": true
   },
@@ -3261,6 +3285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-21 22:25:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 22:11:03 +0000"
@@ -3303,9 +3333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-21 22:24:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2024-12-21 22:04:14 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-21 22:29:47 +0000"
     },
     "done": true
   },
@@ -3318,6 +3360,18 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-12-21 21:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-21 22:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-21 22:24:13 +0000"
     },
     "done": true
   },

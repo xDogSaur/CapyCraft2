@@ -2248,3 +2248,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:20:59.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=66, z=-134} BlockPos{x=133, y=65, z=-133}
 [21Dec2024 22:21:11.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [21Dec2024 22:21:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Kuro]
+[21Dec2024 22:28:15.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Sweet Dreams]
+[21Dec2024 22:29:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [How'd You Get This?]
+[21Dec2024 22:32:09.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Quaint Scribe]
+[21Dec2024 22:33:06.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Andesite Age]
