@@ -1582,3 +1582,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 08:35:00.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Iussheepburb the Ninja'/7790, l='ServerLevel[Oneblock Original v2.1.1]', x=-38.05, y=61.00, z=2.24] died: Iussheepburb the Ninja was slain by Afarfa
 [21Dec2024 08:35:13.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [What a Deal!]
 [21Dec2024 08:35:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [How'd You Get This?]
+[21Dec2024 08:39:51.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[21Dec2024 08:39:51.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[21Dec2024 08:41:56.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[21Dec2024 08:41:56.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
