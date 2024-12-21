@@ -6369,9 +6369,11 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2024-12-21 07:22:02 +0000",
       "sugar_cane": "2024-12-21 07:18:35 +0000",
       "potato": "2024-12-21 06:16:18 +0000",
       "wheat": "2024-12-21 07:02:47 +0000",
+      "melon": "2024-12-21 07:21:31 +0000",
       "carrot": "2024-12-21 06:17:26 +0000"
     },
     "done": false
@@ -14926,6 +14928,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 07:22:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -22054,6 +22062,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-21 07:22:40 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_grill": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
@@ -24086,6 +24100,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-21 07:26:31 +0000"
     },
     "done": true
   },
