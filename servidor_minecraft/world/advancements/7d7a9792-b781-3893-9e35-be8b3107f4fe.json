@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-21 23:30:31 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 21:17:49 +0000"
@@ -695,7 +701,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-21 21:55:49 +0000",
       "minecraft:spider": "2024-12-21 22:41:01 +0000",
-      "minecraft:zombie": "2024-12-21 22:27:05 +0000"
+      "minecraft:zombie": "2024-12-21 22:27:05 +0000",
+      "minecraft:drowned": "2024-12-21 23:27:19 +0000"
     },
     "done": false
   },
@@ -969,6 +976,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-21 21:21:41 +0000"
@@ -1042,6 +1055,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 21:40:11 +0000"
@@ -1051,6 +1070,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-21 22:15:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
     },
     "done": true
   },
@@ -1141,6 +1166,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
     },
     "done": true
   },
@@ -2566,6 +2597,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-21 21:57:20 +0000"
@@ -2704,9 +2741,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-21 23:21:13 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-21 23:21:13 +0000"
     },
     "done": true
   },
@@ -2743,6 +2792,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 21:24:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
     },
     "done": true
   },
@@ -3133,6 +3188,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2024-12-21 23:30:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-21 22:15:49 +0000"
@@ -3154,6 +3215,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
     },
     "done": true
   },
@@ -3469,6 +3536,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-21 23:30:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
     "criteria": {
       "has_planks": "2024-12-21 21:20:02 +0000"
@@ -3698,6 +3771,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-21 23:23:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-21 21:56:05 +0000"
@@ -3902,6 +3981,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2024-12-21 21:20:02 +0000"
@@ -3947,6 +4032,12 @@
   "toughasnails:recipes/tools/thermometer": {
     "criteria": {
       "has_redstone": "2024-12-21 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 23:22:34 +0000"
     },
     "done": true
   },
@@ -4037,6 +4128,12 @@
       "minecraft:plains": "2024-12-21 21:19:34 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2024-12-21 23:30:31 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {

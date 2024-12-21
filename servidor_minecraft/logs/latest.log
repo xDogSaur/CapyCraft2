@@ -2319,3 +2319,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 23:22:00.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:35843] logged in with entity id 34405 at (336.4578037739285, 63.0, -26.86705413150762)
 [21Dec2024 23:22:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
 [21Dec2024 23:22:00.859] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[21Dec2024 23:24:07.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
+[21Dec2024 23:24:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[21Dec2024 23:26:11.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
+[21Dec2024 23:33:18.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Free Willy]
