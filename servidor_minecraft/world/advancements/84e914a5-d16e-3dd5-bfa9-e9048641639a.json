@@ -28048,6 +28048,7 @@
       "minecraft:skeleton": "2024-12-20 22:42:55 +0000",
       "minecraft:spider": "2024-12-20 22:42:34 +0000",
       "minecraft:creeper": "2024-12-20 22:42:38 +0000",
+      "minecraft:witch": "2024-12-21 04:50:09 +0000",
       "minecraft:zombie": "2024-12-20 22:43:43 +0000",
       "minecraft:zombie_villager": "2024-12-20 22:45:26 +0000"
     },
@@ -28146,6 +28147,12 @@
   "aquaculture:recipes/combat/neptunium_sword": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/witch": {
+    "criteria": {
+      "requirement": "2024-12-21 04:50:09 +0000"
     },
     "done": true
   },
@@ -28253,6 +28260,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-21 04:49:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
@@ -28262,6 +28275,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-21 04:49:56 +0000"
     },
     "done": true
   },

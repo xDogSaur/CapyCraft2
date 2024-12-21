@@ -1316,3 +1316,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 04:41:50.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=1, y=59, z=-1}
 [21Dec2024 04:41:50.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=1, y=59, z=-1}
 [21Dec2024 04:41:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 04:49:45.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro was kicked for floating too long!
+[21Dec2024 04:49:45.286] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
+[21Dec2024 04:49:45.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[21Dec2024 04:49:45.367] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 04:49:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Far From Perfect]
+[21Dec2024 04:49:56.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Not a Diamond]
+[21Dec2024 04:50:04.668] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 04:50:04.703] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 04:50:04.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuro[/127.239.168.141:45335] logged in with entity id 2013 at (6.4065513879089435, -111.19263605860137, -2.0842718608915254)
+[21Dec2024 04:50:04.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro joined the game
+[21Dec2024 04:50:04.960] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
+[21Dec2024 04:50:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
+[21Dec2024 04:50:09.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Witch It]
+[21Dec2024 04:50:33.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro fell from a high place
+[21Dec2024 04:55:21.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro was kicked for floating too long!
+[21Dec2024 04:55:21.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Flying is not enabled on this server
+[21Dec2024 04:55:21.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[21Dec2024 04:55:21.412] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 04:55:39.212] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 04:55:39.223] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[21Dec2024 04:55:39.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuro[/127.239.168.141:37041] logged in with entity id 2091 at (1.843055826151867, -110.00554363841727, -2.265448441211663)
+[21Dec2024 04:55:39.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro joined the game
+[21Dec2024 04:55:39.373] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
+[21Dec2024 04:55:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
+[21Dec2024 04:56:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro fell from a high place
