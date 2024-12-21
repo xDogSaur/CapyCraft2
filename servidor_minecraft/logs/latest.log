@@ -2295,3 +2295,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:58:01.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
 [21Dec2024 22:58:01.308] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
 [21Dec2024 23:01:41.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Bonk!]
+[21Dec2024 23:03:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a{
+[21Dec2024 23:04:12.817] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Disconnected
+[21Dec2024 23:04:12.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[21Dec2024 23:04:58.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:35077] logged in with entity id 30872 at (332.43274774310765, 63.0, -32.444849441628335)
+[21Dec2024 23:04:58.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[21Dec2024 23:04:58.106] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[21Dec2024 23:05:42.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuro: Teleported Afarfa to Kuro]
+[21Dec2024 23:08:15.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Worthy Equipment]
+[21Dec2024 23:09:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Fishy Business]
+[21Dec2024 23:09:47.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Not Today, Thank You]
+[21Dec2024 23:11:35.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Choose your path]
+[21Dec2024 23:12:12.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Path of Light]
+[21Dec2024 23:13:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Diamonds!]
+[21Dec2024 23:13:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hunt and Gather]
