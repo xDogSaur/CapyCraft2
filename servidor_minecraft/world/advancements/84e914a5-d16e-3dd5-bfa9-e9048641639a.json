@@ -28365,6 +28365,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-12-21 06:59:05 +0000"
+    },
+    "done": true
+  },
   "obs:ob/iron": {
     "criteria": {
       "cobble": "2024-12-21 06:18:56 +0000"

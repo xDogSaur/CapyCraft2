@@ -1500,3 +1500,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 06:50:14.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Rob the Knight'/6359, l='ServerLevel[Oneblock Original v2.1.1]', x=-30.01, y=61.00, z=1.70] died: Rob the Knight was slain by xDogSaur
 [21Dec2024 06:50:29.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has completed the challenge [He Wasn't So Strong]
 [21Dec2024 06:59:05.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Bonk!]
+[21Dec2024 06:59:24.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benyaneitor> equisde
+[21Dec2024 07:01:01.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 07:01:03.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 4 [White Wool] to xDogSaur]
+[21Dec2024 07:01:07.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor a server operator]
