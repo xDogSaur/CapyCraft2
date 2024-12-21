@@ -1108,7 +1108,8 @@
     "criteria": {
       "cold_desert": "2024-12-21 21:36:04 +0000",
       "coniferous_forest": "2024-12-21 21:40:09 +0000",
-      "fir_clearing": "2024-12-21 21:35:42 +0000"
+      "fir_clearing": "2024-12-21 21:35:42 +0000",
+      "gravel_beach": "2024-12-21 22:03:12 +0000"
     },
     "done": false
   },
@@ -3080,11 +3081,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-21 22:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-21 22:00:47 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "transformation_chest": "2024-12-21 22:01:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
@@ -3101,6 +3114,30 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-21 22:00:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
     },
     "done": true
   },
@@ -3134,9 +3171,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 22:08:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-21 22:07:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-21 22:00:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 22:08:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-21 22:08:57 +0000"
     },
     "done": true
   },
@@ -3152,9 +3213,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-21 22:00:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
     },
     "done": true
   },
@@ -3170,9 +3243,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-21 22:09:33 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2024-12-21 22:00:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-21 22:04:14 +0000"
     },
     "done": true
   },
@@ -3188,9 +3279,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-21 22:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-21 22:04:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2024-12-21 22:04:14 +0000"
     },
     "done": true
   },
@@ -3205,6 +3320,12 @@
       "has_iron_helmet": "2024-12-21 22:00:01 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-21 22:09:33 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {

@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "twilightforest:arborist": {
+    "criteria": {
+      "transformation_chest": "2024-12-21 22:07:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
@@ -1303,6 +1309,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 22:07:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-21 21:40:11 +0000"
@@ -1511,6 +1523,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2024-12-21 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 22:07:18 +0000"
     },
     "done": true
   },
@@ -1745,6 +1763,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-21 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 22:07:11 +0000"
     },
     "done": true
   },
@@ -2194,8 +2218,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "cold_desert": "2024-12-21 22:05:06 +0000",
       "coniferous_forest": "2024-12-21 21:31:21 +0000",
-      "fir_clearing": "2024-12-21 21:21:48 +0000"
+      "fir_clearing": "2024-12-21 21:21:48 +0000",
+      "gravel_beach": "2024-12-21 22:06:34 +0000"
     },
     "done": false
   },
@@ -3213,6 +3239,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-21 22:01:51 +0000",
       "beef": "2024-12-21 21:22:52 +0000",
       "porkchop": "2024-12-21 21:55:58 +0000",
       "pumpkin_pie": "2024-12-21 21:41:08 +0000",

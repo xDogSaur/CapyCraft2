@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
@@ -104,6 +110,12 @@
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2024-12-21 21:36:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:07 +0000"
     },
     "done": true
   },
@@ -158,6 +170,18 @@
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -263,6 +287,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -347,6 +377,12 @@
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -362,6 +398,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -393,6 +435,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -438,6 +486,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_fishing_rod": "2024-12-21 21:12:49 +0000",
@@ -475,18 +529,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-21 21:48:22 +0000",
       "minecraft:skeleton": "2024-12-21 21:43:52 +0000",
       "minecraft:spider": "2024-12-21 21:34:59 +0000",
-      "minecraft:zombie": "2024-12-21 21:37:02 +0000"
+      "minecraft:zombie": "2024-12-21 21:37:02 +0000",
+      "minecraft:drowned": "2024-12-21 22:10:54 +0000"
     },
     "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -505,6 +572,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -682,6 +755,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-21 21:46:18 +0000"
@@ -712,6 +797,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_helmet": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-21 21:37:36 +0000"
@@ -733,6 +830,18 @@
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
     },
     "done": true
   },
@@ -778,6 +887,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
@@ -796,15 +911,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 21:58:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -928,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 21:33:06 +0000"
@@ -940,6 +1079,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-21 21:36:31 +0000"
@@ -949,6 +1094,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_copper_canteen": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1131,6 +1282,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -1203,6 +1366,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 22:02:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-21 21:50:44 +0000"
@@ -1242,6 +1411,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_lamp": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1312,6 +1487,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-21 21:33:06 +0000"
@@ -1354,9 +1535,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1369,6 +1574,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1444,6 +1655,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2024-12-21 22:02:19 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-21 21:12:48 +0000"
@@ -1498,6 +1715,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -1531,6 +1754,24 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_leggings": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-21 22:08:45 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_chestplate": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -1810,6 +2051,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 21:21:38 +0000"
@@ -1819,6 +2066,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-21 21:21:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/television_remote": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1900,6 +2153,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-21 22:01:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-21 21:33:06 +0000"
@@ -1915,6 +2180,18 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -1954,6 +2231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-21 21:21:23 +0000"
@@ -1975,6 +2258,18 @@
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2024-12-21 21:12:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -2002,6 +2297,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_lamp": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
@@ -2023,6 +2324,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 21:21:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
     },
     "done": true
   },
@@ -2119,9 +2426,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -2263,6 +2582,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_cooler": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
@@ -2284,6 +2609,12 @@
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -2335,6 +2666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
@@ -2344,6 +2681,12 @@
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
     },
     "done": true
   },
@@ -2449,6 +2792,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2024-12-21 21:50:44 +0000"
@@ -2497,6 +2846,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -2518,6 +2873,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-21 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -2575,6 +2936,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
@@ -2617,9 +2984,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/wool_boots": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -2702,6 +3081,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-21 21:30:42 +0000"
@@ -2744,6 +3129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_smoking": {
     "criteria": {
       "has_items": "2024-12-21 21:12:48 +0000"
@@ -2759,6 +3150,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:08 +0000"
     },
     "done": true
   },
@@ -2924,9 +3321,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-21 21:33:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-21 22:01:16 +0000"
     },
     "done": true
   },
@@ -2939,6 +3354,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_cooler": {
     "criteria": {
       "has_planks": "2024-12-21 21:21:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
     },
     "done": true
   },
@@ -2969,6 +3390,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-21 21:29:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 22:03:07 +0000"
     },
     "done": true
   },
@@ -3040,6 +3467,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-12-21 22:01:12 +0000",
       "minecraft:snowy_taiga": "2024-12-21 21:15:01 +0000",
       "minecraft:forest": "2024-12-21 21:12:52 +0000",
       "minecraft:plains": "2024-12-21 21:21:33 +0000"
@@ -3049,6 +3477,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2024-12-21 21:21:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },
@@ -3088,6 +3522,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-21 22:09:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 21:33:06 +0000"
@@ -3116,6 +3556,7 @@
     "criteria": {
       "cooked_beef": "2024-12-21 21:40:31 +0000",
       "apple": "2024-12-21 21:29:02 +0000",
+      "bread": "2024-12-21 22:09:42 +0000",
       "rotten_flesh": "2024-12-21 21:38:57 +0000"
     },
     "done": false
@@ -3262,6 +3703,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-21 22:04:18 +0000"
     },
     "done": true
   },

@@ -2219,3 +2219,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:00:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [I Found It Underground]
 [21Dec2024 22:00:22.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Worthy Equipment]
 [21Dec2024 22:00:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a
+[21Dec2024 22:03:11.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
+[21Dec2024 22:03:52.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuro: Teleported Kuro to Afarfa]
+[21Dec2024 22:06:34.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[21Dec2024 22:06:44.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa froze to death
+[21Dec2024 22:06:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[21Dec2024 22:07:08.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuro: Teleported Kuro to Afarfa]
+[21Dec2024 22:07:09.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was frozen to death by Zombie
+[21Dec2024 22:07:11.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Suit Up]
+[21Dec2024 22:07:26.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kuro: Teleported Kuro to Afarfa]
+[21Dec2024 22:07:43.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/2678, l='ServerLevel[world]', x=270.42, y=68.00, z=25.30] died, message: 'Beekeeper was slain by Zombie'
+[21Dec2024 22:08:31.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 22:08:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 22:08:37.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 22:09:31.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 22:09:35.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 22:09:37.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 22:12:13.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the weather to clear]
+[21Dec2024 22:12:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Tears and Lamps]
