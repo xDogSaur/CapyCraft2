@@ -7377,3 +7377,57 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 05:16:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
 [21Dec2024 05:17:00.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Step 8]
 [21Dec2024 05:17:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Step 8]
+[21Dec2024 05:18:34.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 05:18:35.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 05:19:01.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Hidden in the Depths]
+[21Dec2024 05:19:32.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 05:19:33.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 05:19:35.386] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:36.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:36.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:37.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:39.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:40.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:55.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:56.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:57.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:19:59.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:00.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:01.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:02.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:03.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:03.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:04.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:06.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:08.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:11.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:12.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=1}
+[21Dec2024 05:20:21.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:22.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:24.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:26.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:30.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:31.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:32.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:33.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:35.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:35.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:36.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:37.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:38.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:20:47.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:21:07.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 05:21:11.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 05:23:34.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 05:23:34.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 05:23:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 05:23:56.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 05:25:46.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=59, z=0} BlockPos{x=1, y=60, z=4}
+[21Dec2024 05:25:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 05:25:51.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 05:27:12.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Edward the Alien'/2797, l='ServerLevel[Oneblock Original v2.1.1]', x=-37.50, y=61.00, z=1.50] died: Edward the Alien was slain by xDogSaur
+[21Dec2024 05:27:15.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [He Wasn't So Strong]
+[21Dec2024 05:27:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has completed the challenge [He Wasn't So Strong]
+[21Dec2024 05:28:34.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 05:28:34.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1

@@ -28518,11 +28518,29 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-21 05:19:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-21 05:10:34 +0000"
     },
     "done": false
+  },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "phase1": "2024-12-21 05:17:00 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-21 05:27:32 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

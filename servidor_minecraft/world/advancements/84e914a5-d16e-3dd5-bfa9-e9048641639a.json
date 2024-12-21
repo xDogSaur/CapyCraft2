@@ -28309,6 +28309,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_8": {
+    "criteria": {
+      "phase1": "2024-12-21 05:17:00 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
@@ -28493,6 +28499,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-21 05:27:15 +0000"
     },
     "done": true
   },
