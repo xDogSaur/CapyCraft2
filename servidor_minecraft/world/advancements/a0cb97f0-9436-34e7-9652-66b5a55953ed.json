@@ -6355,6 +6355,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2024-12-21 06:16:18 +0000",
+      "carrot": "2024-12-21 06:17:26 +0000"
+    },
+    "done": false
+  },
   "alchemistry:recipes/compactor/cesium_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -12526,6 +12533,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:11 +0000"
+    },
+    "done": true
+  },
+  "obs:phases/phase_9": {
+    "criteria": {
+      "phase1": "2024-12-21 06:13:35 +0000"
     },
     "done": true
   },

@@ -1458,3 +1458,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 06:01:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Hunt and Gather]
 [21Dec2024 06:06:46.310] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Royal the Marbles Winner'/4663, l='ServerLevel[Oneblock Original v2.1.1]', x=-38.32, y=61.00, z=1.32] died: Royal the Marbles Winner was slain by xDogSaur
 [21Dec2024 06:07:56.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Farm Ville Gers]
+[21Dec2024 06:10:21.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/4425, l='ServerLevel[Oneblock Original v2.1.1]', x=0.98, y=-1048.16, z=0.50] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 06:10:21.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/4425, l='ServerLevel[Oneblock Original v2.1.1]', x=0.98, y=-1048.16, z=0.50] died: Visiting Trader fell out of the world
+[21Dec2024 06:11:09.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/4749, l='ServerLevel[Oneblock Original v2.1.1]', x=-37.60, y=61.00, z=-0.13] died: Undead Knight was slain by Kuro
+[21Dec2024 06:11:36.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Sheep]
+[21Dec2024 06:13:35.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Step 9]
+[21Dec2024 06:13:35.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Step 9]
+[21Dec2024 06:13:35.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Step 9]
+[21Dec2024 06:15:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Ice Bucket Challenge]
+[21Dec2024 06:15:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Obsessed with Obsidian]
