@@ -7368,3 +7368,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 05:03:34.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
 [21Dec2024 05:05:10.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/1963, l='ServerLevel[Oneblock Original v2.1.1]', x=-43.98, y=61.00, z=-4.40] died, message: 'Visiting Trader was slain by Zombie'
 [21Dec2024 05:05:10.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/1963, l='ServerLevel[Oneblock Original v2.1.1]', x=-43.98, y=61.00, z=-4.40] died: Visiting Trader was slain by Zombie
+[21Dec2024 05:08:34.875] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 05:08:34.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 05:13:34.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 05:13:34.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 05:16:20.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 05:16:21.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=-1, y=59, z=0}
+[21Dec2024 05:16:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 05:17:00.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Step 8]
+[21Dec2024 05:17:00.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Step 8]
