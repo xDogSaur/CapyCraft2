@@ -4327,6 +4327,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:piglin": "2024-12-21 06:39:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -11440,6 +11446,12 @@
   "alchemistry:recipes/combiner/rubidium_chloride_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-21 06:39:56 +0000"
     },
     "done": true
   },
@@ -26292,6 +26304,12 @@
   "refurbished_furniture:recipes/decorations/purple_kitchen_storage_cabinet_from_dyeing": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:piglin": "2024-12-21 06:39:56 +0000"
     },
     "done": true
   },

@@ -1487,3 +1487,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 06:35:46.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
 [21Dec2024 06:35:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
 [21Dec2024 06:37:14.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Over complicated]
+[21Dec2024 06:39:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 06:39:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Piglin]
+[21Dec2024 06:39:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Ben a server operator]
+[21Dec2024 06:39:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Monster Hunter]
+[21Dec2024 06:40:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Glistening]
+[21Dec2024 06:42:12.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor a server operator]
+[21Dec2024 06:43:47.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/5572, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1000.00, z=0.50] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 06:43:47.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/5572, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1000.00, z=0.50] died: Visiting Trader fell out of the world

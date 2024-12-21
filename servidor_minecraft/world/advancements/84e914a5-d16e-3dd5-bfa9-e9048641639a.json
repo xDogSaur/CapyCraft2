@@ -28473,6 +28473,12 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-21 06:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 06:16:05 +0000"
@@ -28651,6 +28657,12 @@
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/glistening": {
+    "criteria": {
+      "cobble": "2024-12-21 06:40:13 +0000"
     },
     "done": true
   },
