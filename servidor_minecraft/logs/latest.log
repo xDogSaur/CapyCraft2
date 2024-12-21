@@ -2109,3 +2109,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 21:05:44.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3078ms or 61 ticks behind
 [21Dec2024 21:05:46.370] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at -785 ~ 672 after 16 tries
 [21Dec2024 21:09:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[21Dec2024 21:12:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 21:12:26.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: saya<--[HERE]
+[21Dec2024 21:12:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Dec2024 21:12:28.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sa a<--[HERE]
+[21Dec2024 21:12:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[21Dec2024 21:12:47.887] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:58211] logged in with entity id 416 at (-1.5, 74.0, 6.5)
+[21Dec2024 21:12:48.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[21Dec2024 21:12:49.049] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[21Dec2024 21:12:50.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2117ms or 42 ticks behind
+[21Dec2024 21:13:12.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
+[21Dec2024 21:14:54.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 21:16:22.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Captured!]
+[21Dec2024 21:17:49.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.240.213.114:37373] logged in with entity id 1143 at (-7.5, 79.0, -5.5)
+[21Dec2024 21:17:49.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[21Dec2024 21:17:49.954] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[21Dec2024 21:20:09.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
+[21Dec2024 21:20:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: The difficulty has been set to Hard]
+[21Dec2024 21:20:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 21:20:22.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[21Dec2024 21:20:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 21:20:36.925] [Worker-Main-16/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id dummmmmmy:target_dummy
+[21Dec2024 21:20:36.958] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-11, y=-54, z=184}
+[21Dec2024 21:21:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 21:21:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Stone Age]
+[21Dec2024 21:22:19.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Getting an Upgrade]
