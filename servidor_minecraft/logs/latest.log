@@ -2203,3 +2203,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 21:49:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
 [21Dec2024 21:49:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
 [21Dec2024 21:50:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hot Stuff]
+[21Dec2024 21:52:38.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Skeleton
+[21Dec2024 21:52:47.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
+[21Dec2024 21:52:47.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[21Dec2024 21:52:47.516] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Dec2024 21:52:47.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuro[/127.244.152.74:45233] logged in with entity id 11514 at (225.57764052031192, 33.0, 11.699999988079071)
+[21Dec2024 21:52:47.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro joined the game
+[21Dec2024 21:52:47.888] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
+[21Dec2024 21:52:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Ol' Betsy]
+[21Dec2024 21:55:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Monster Hunter]
+[21Dec2024 21:55:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[21Dec2024 21:55:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was blown up by Spruce Creeper
+[21Dec2024 22:00:01.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Apothic Affixes]
+[21Dec2024 22:00:01.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Suit Up]
+[21Dec2024 22:00:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [I Found It Underground]
+[21Dec2024 22:00:22.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Worthy Equipment]
+[21Dec2024 22:00:55.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a
