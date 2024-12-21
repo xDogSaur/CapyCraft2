@@ -2252,3 +2252,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:29:47.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [How'd You Get This?]
 [21Dec2024 22:32:09.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Quaint Scribe]
 [21Dec2024 22:33:06.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Andesite Age]
+[21Dec2024 22:36:43.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [A Seedy Place]
+[21Dec2024 22:37:03.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kuro lost connection: Disconnected
+[21Dec2024 22:37:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro left the game
+[21Dec2024 22:37:49.058] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:46905] logged in with entity id 23716 at (-4.5, 75.0, 3.5)
+[21Dec2024 22:37:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[21Dec2024 22:37:49.196] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[21Dec2024 22:38:34.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Timed out
+[21Dec2024 22:38:34.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[21Dec2024 22:39:14.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Far From Perfect]
+[21Dec2024 22:39:39.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [How'd You Get This?]
+[21Dec2024 22:40:53.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was doomed to fall by Skeleton
+[21Dec2024 22:40:58.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 22:41:02.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[21Dec2024 22:41:13.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 22:41:45.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kuro[/127.244.152.74:58731] logged in with entity id 25292 at (310.5116910423746, 62.9375, -51.01610189028107)
+[21Dec2024 22:41:45.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro joined the game
+[21Dec2024 22:41:46.068] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
+[21Dec2024 22:41:53.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Not a Diamond]
+[21Dec2024 22:42:44.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 22:42:47.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 22:43:19.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:37027] logged in with entity id 25695 at (-4.5, 75.0, 3.5)
+[21Dec2024 22:43:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[21Dec2024 22:43:19.361] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
