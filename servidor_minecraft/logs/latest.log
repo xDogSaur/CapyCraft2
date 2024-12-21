@@ -2237,3 +2237,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:09:37.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
 [21Dec2024 22:12:13.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the weather to clear]
 [21Dec2024 22:12:33.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Tears and Lamps]
+[21Dec2024 22:12:55.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro froze to death
+[21Dec2024 22:14:10.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was shot by Skeleton
+[21Dec2024 22:14:34.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was shot by Skeleton
+[21Dec2024 22:15:10.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was shot by Skeleton
+[21Dec2024 22:15:33.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was shot by Skeleton
+[21Dec2024 22:19:06.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Crops of the Wild]
+[21Dec2024 22:20:40.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[21Dec2024 22:20:58.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=66, z=-136} BlockPos{x=130, y=65, z=-135}
+[21Dec2024 22:20:59.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=132, y=66, z=-134} BlockPos{x=133, y=65, z=-133}
+[21Dec2024 22:21:11.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21Dec2024 22:21:41.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Kuro]
