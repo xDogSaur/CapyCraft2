@@ -1308,3 +1308,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 04:36:47.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/1272, l='ServerLevel[Oneblock Original v2.1.1]', x=-1.78, y=-196.83, z=-1.83] died, message: 'Visiting Trader fell out of the world'
 [21Dec2024 04:36:47.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/1272, l='ServerLevel[Oneblock Original v2.1.1]', x=-1.78, y=-196.83, z=-1.83] died: Visiting Trader fell out of the world
 [21Dec2024 04:36:56.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [New Jorney]
+[21Dec2024 04:41:47.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 04:41:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Apple] to xDogSaur]
+[21Dec2024 04:41:49.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Apple] to xDogSaur]
+[21Dec2024 04:41:49.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=-1}
+[21Dec2024 04:41:50.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=0, y=59, z=-1}
+[21Dec2024 04:41:50.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=1, y=59, z=-1}
+[21Dec2024 04:41:50.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=60, z=0} BlockPos{x=1, y=59, z=-1}
+[21Dec2024 04:41:51.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]

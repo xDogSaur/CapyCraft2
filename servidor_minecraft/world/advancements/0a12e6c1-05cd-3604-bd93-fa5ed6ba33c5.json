@@ -28091,6 +28091,12 @@
     },
     "done": true
   },
+  "obs:ob/dirt_1": {
+    "criteria": {
+      "phase1": "2024-12-21 04:36:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_bow": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:39 +0000"
@@ -28119,6 +28125,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-21 04:33:52 +0000",
       "minecraft:spider": "2024-12-21 04:32:46 +0000",
       "minecraft:creeper": "2024-12-21 04:29:53 +0000",
       "minecraft:zombie": "2024-12-21 04:25:53 +0000"
@@ -28149,6 +28156,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2024-12-21 04:35:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/wooden_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
@@ -28175,6 +28188,12 @@
       "has_hoe": "2024-12-21 03:55:39 +0000",
       "has_boots": "2024-12-21 03:55:39 +0000",
       "has_pickaxe": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2024-12-21 04:35:07 +0000"
     },
     "done": true
   },
@@ -28269,6 +28288,12 @@
     },
     "done": true
   },
+  "obs:ob/weapon": {
+    "criteria": {
+      "cobble": "2024-12-21 04:35:08 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
@@ -28323,6 +28348,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-21 04:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-21 04:28:32 +0000"
@@ -28362,6 +28393,12 @@
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-21 04:35:07 +0000"
     },
     "done": true
   },

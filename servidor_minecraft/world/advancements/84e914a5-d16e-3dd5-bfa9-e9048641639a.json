@@ -28207,7 +28207,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-12-21 04:04:24 +0000"
+      "sugar_cane": "2024-12-21 04:04:24 +0000",
+      "potato": "2024-12-21 04:42:21 +0000"
     },
     "done": false
   },
@@ -28522,6 +28523,12 @@
   "aquaculture:recipes/tools/neptunium_axe": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/apple": {
+    "criteria": {
+      "apples": "2024-12-21 04:34:09 +0000"
     },
     "done": true
   },
