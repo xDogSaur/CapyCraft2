@@ -4187,6 +4187,12 @@
     },
     "done": true
   },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2024-12-21 23:11:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-12-21 23:06:26 +0000"
@@ -4214,6 +4220,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2024-12-21 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_priest": {
+    "criteria": {
+      "book": "2024-12-21 23:12:12 +0000"
     },
     "done": true
   },

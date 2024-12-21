@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-21 23:12:44 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2024-12-21 21:17:50 +0000"
@@ -323,9 +329,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2024-12-21 21:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -362,6 +380,12 @@
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2024-12-21 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -655,6 +679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
@@ -756,6 +786,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -954,6 +990,18 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -1456,6 +1504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 23:12:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2024-12-21 21:21:41 +0000"
@@ -1471,6 +1525,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-21 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -1822,6 +1882,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2024-12-21 23:13:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-21 21:53:33 +0000"
@@ -1933,6 +2005,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -2116,6 +2194,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_boat": {
     "criteria": {
       "in_water": "2024-12-21 21:28:37 +0000"
@@ -2221,6 +2305,12 @@
   "toughasnails:recipes/tools/empty_leather_canteen": {
     "criteria": {
       "has_leather": "2024-12-21 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },
@@ -2464,6 +2554,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-21 22:13:17 +0000"
@@ -2593,6 +2689,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2024-12-21 21:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-21 23:12:44 +0000"
     },
     "done": true
   },
@@ -3169,6 +3271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
@@ -3316,6 +3424,12 @@
   "refurbished_furniture:recipes/misc/constructing/television": {
     "criteria": {
       "has_iron_ingot": "2024-12-21 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-21 23:12:44 +0000"
     },
     "done": true
   },
@@ -3918,6 +4032,7 @@
     "criteria": {
       "minecraft:river": "2024-12-21 21:31:12 +0000",
       "minecraft:snowy_taiga": "2024-12-21 21:18:31 +0000",
+      "minecraft:cold_ocean": "2024-12-21 23:19:42 +0000",
       "minecraft:forest": "2024-12-21 21:17:50 +0000",
       "minecraft:plains": "2024-12-21 21:19:34 +0000"
     },
@@ -3997,6 +4112,7 @@
       "pumpkin_pie": "2024-12-21 21:41:08 +0000",
       "bread": "2024-12-21 21:36:14 +0000",
       "rotten_flesh": "2024-12-21 22:41:52 +0000",
+      "cooked_salmon": "2024-12-21 23:15:10 +0000",
       "carrot": "2024-12-21 21:24:25 +0000"
     },
     "done": false
@@ -4113,6 +4229,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-21 21:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 23:13:10 +0000"
     },
     "done": true
   },

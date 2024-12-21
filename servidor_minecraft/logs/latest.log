@@ -2309,3 +2309,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 23:12:12.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Path of Light]
 [21Dec2024 23:13:10.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Diamonds!]
 [21Dec2024 23:13:24.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hunt and Gather]
+[21Dec2024 23:14:29.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[21Dec2024 23:14:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[21Dec2024 23:14:59.819] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:54475] logged in with entity id 32826 at (336.4578037739285, 63.0, -26.86705413150762)
+[21Dec2024 23:14:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[21Dec2024 23:14:59.938] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[21Dec2024 23:15:44.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Timed out
+[21Dec2024 23:15:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
+[21Dec2024 23:22:00.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:35843] logged in with entity id 34405 at (336.4578037739285, 63.0, -26.86705413150762)
+[21Dec2024 23:22:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[21Dec2024 23:22:00.859] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
