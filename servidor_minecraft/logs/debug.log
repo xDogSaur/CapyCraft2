@@ -6900,3 +6900,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 04:16:51.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
 [21Dec2024 04:16:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Apple] to xDogSaur]
 [21Dec2024 04:16:57.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 04:18:34.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 04:18:34.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 04:18:46.492] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate
+[21Dec2024 04:19:40.735] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oneblock Trader'/135, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1000.00, z=0.50] died, message: 'Oneblock Trader fell out of the world'
+[21Dec2024 04:19:40.737] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Oneblock Trader'/135, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1000.00, z=0.50] died: Oneblock Trader fell out of the world
+[21Dec2024 04:21:18.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 04:21:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Kuro]
+[21Dec2024 04:21:28.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 04:23:18.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Builder]
+[21Dec2024 04:23:34.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 04:23:34.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 04:25:53.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Not Today, Thank You]
+[21Dec2024 04:25:53.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Monster Hunter]
+[21Dec2024 04:28:11.034] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Dec2024 04:28:11.035] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]

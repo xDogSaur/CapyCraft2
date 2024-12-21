@@ -28161,6 +28161,12 @@
     },
     "done": true
   },
+  "obs:ob/dirt_3": {
+    "criteria": {
+      "phase1": "2024-12-21 04:23:18 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_bow": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
