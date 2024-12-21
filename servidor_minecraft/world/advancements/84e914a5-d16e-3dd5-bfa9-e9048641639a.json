@@ -28219,6 +28219,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-21 08:16:51 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_bow": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
@@ -28284,6 +28290,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-21 06:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-12-21 08:10:45 +0000"
     },
     "done": true
   },

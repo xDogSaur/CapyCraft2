@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -1121,6 +1127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "chemlib:recipes/misc/gadolinium_ingot_from_smelting_gadolinium_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
@@ -1754,6 +1766,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -3510,6 +3528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "chemlib:recipes/misc/actinium_ingot_to_block": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -4975,6 +4999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:11 +0000"
@@ -6420,6 +6450,12 @@
     },
     "done": true
   },
+  "obs:ob/obsidian": {
+    "criteria": {
+      "cobble": "2024-12-21 08:09:41 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/compactor/copper_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -6465,6 +6501,12 @@
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -9456,6 +9498,12 @@
     },
     "done": true
   },
+  "obs:ob/sapling": {
+    "criteria": {
+      "cobble": "2024-12-21 08:09:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
@@ -10334,6 +10382,12 @@
   "alchemistry:recipes/combiner/sodium_carbonate_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 08:09:41 +0000"
     },
     "done": true
   },
@@ -11732,6 +11786,12 @@
   "alchemistry:recipes/combiner/amide": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -16038,6 +16098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -19938,6 +20004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/combiner/sodium_chloride_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
@@ -21525,6 +21597,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_lamp": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -23263,6 +23341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
@@ -23428,6 +23512,12 @@
   "chemlib:recipes/misc/molybdenum_ingot_from_blasting_molybdenum_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -23758,6 +23848,12 @@
   "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -27758,6 +27854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
@@ -27803,6 +27905,12 @@
   "create:recipes/building_blocks/exposed_copper_tile_stairs_from_exposed_copper_tiles_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 08:14:13 +0000"
     },
     "done": true
   },
@@ -28241,6 +28349,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/apple": {
+    "criteria": {
+      "apples": "2024-12-21 08:13:34 +0000"
     },
     "done": true
   },
