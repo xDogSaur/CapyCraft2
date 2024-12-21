@@ -24183,6 +24183,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-21 06:50:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"

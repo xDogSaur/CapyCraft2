@@ -28050,6 +28050,7 @@
       "minecraft:spider": "2024-12-20 22:42:34 +0000",
       "minecraft:creeper": "2024-12-20 22:42:38 +0000",
       "minecraft:witch": "2024-12-21 04:50:09 +0000",
+      "minecraft:stray": "2024-12-21 06:50:14 +0000",
       "minecraft:zombie": "2024-12-20 22:43:43 +0000",
       "minecraft:zombie_villager": "2024-12-20 22:45:26 +0000"
     },
@@ -28503,9 +28504,21 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-21 06:49:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-21 06:32:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-21 06:51:11 +0000"
     },
     "done": true
   },
@@ -28687,6 +28700,12 @@
   "aquaculture:recipes/combat/neptunium_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/stray": {
+    "criteria": {
+      "requirement": "2024-12-21 06:50:14 +0000"
     },
     "done": true
   },
