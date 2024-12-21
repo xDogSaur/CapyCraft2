@@ -28269,6 +28269,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-21 08:07:29 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"

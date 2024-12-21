@@ -6313,6 +6313,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-21 07:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
