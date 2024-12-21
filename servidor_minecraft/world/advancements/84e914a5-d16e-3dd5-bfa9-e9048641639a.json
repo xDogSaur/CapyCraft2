@@ -28046,6 +28046,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-20 22:42:55 +0000",
+      "minecraft:vindicator": "2024-12-21 06:06:46 +0000",
       "minecraft:spider": "2024-12-20 22:42:34 +0000",
       "minecraft:creeper": "2024-12-20 22:42:38 +0000",
       "minecraft:witch": "2024-12-21 04:50:09 +0000",
@@ -28126,6 +28127,12 @@
     },
     "done": true
   },
+  "obs:ob/mob": {
+    "criteria": {
+      "requirement": "2024-12-21 06:07:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/combat/neptunium_leggings": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
@@ -28165,6 +28172,12 @@
   "aquaculture:recipes/tools/neptunium_fillet_knife": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/dirt_4": {
+    "criteria": {
+      "phase1": "2024-12-21 06:00:08 +0000"
     },
     "done": true
   },
