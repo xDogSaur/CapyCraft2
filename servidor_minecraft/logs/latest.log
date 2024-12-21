@@ -1287,3 +1287,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 04:25:53.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Monster Hunter]
 [21Dec2024 04:28:11.034] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [21Dec2024 04:28:11.035] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Dec2024 04:29:04.231] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/651, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1003.35, z=0.50] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 04:29:04.232] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/651, l='ServerLevel[Oneblock Original v2.1.1]', x=0.50, y=-1003.35, z=0.50] died: Visiting Trader fell out of the world
+[21Dec2024 04:29:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Creeper. Aw Man!]
+[21Dec2024 04:32:03.681] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[21Dec2024 04:32:03.682] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[21Dec2024 04:32:33.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was mauled by Bernard the Dirt Digger's undead
+[21Dec2024 04:34:06.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 04:34:09.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Apple] to xDogSaur]
+[21Dec2024 04:34:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Apple Pie!]
+[21Dec2024 04:34:09.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Apple] to xDogSaur]
+[21Dec2024 04:34:11.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 04:34:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was killed by Bernard the Dirt Digger's magic missile
+[21Dec2024 04:35:07.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Not a Diamond]
+[21Dec2024 04:35:07.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Apothic Affixes]
+[21Dec2024 04:35:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [How'd You Get This?]
+[21Dec2024 04:35:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has reached the goal [Worthy Equipment]
+[21Dec2024 04:35:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Weaponry]
+[21Dec2024 04:36:42.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro was blown up by Creeper
+[21Dec2024 04:36:47.582] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/1272, l='ServerLevel[Oneblock Original v2.1.1]', x=-1.78, y=-196.83, z=-1.83] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 04:36:47.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/1272, l='ServerLevel[Oneblock Original v2.1.1]', x=-1.78, y=-196.83, z=-1.83] died: Visiting Trader fell out of the world
+[21Dec2024 04:36:56.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [New Jorney]

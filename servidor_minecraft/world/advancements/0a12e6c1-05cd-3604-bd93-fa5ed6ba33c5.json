@@ -28049,9 +28049,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-21 04:25:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/heavy_hook": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/creeper": {
+    "criteria": {
+      "requirement": "2024-12-21 04:29:53 +0000"
     },
     "done": true
   },
@@ -28104,6 +28116,14 @@
       "has_fillet_knife": "2024-12-21 03:55:39 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-21 04:32:46 +0000",
+      "minecraft:creeper": "2024-12-21 04:29:53 +0000",
+      "minecraft:zombie": "2024-12-21 04:25:53 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
@@ -28303,6 +28323,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-21 04:28:32 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/fishing_line": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
@@ -28403,6 +28429,12 @@
   "aquaculture:recipes/combat/neptunium_boots": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-21 04:25:53 +0000"
     },
     "done": true
   },
