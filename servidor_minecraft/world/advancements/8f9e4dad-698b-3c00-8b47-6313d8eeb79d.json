@@ -278,12 +278,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-12-21 22:37:50 +0000"
-    },
-    "done": false
-  },
   "aquaculture:recipes/misc/neptunium_ingot_from_nuggets": {
     "criteria": {
       "has_items": "2024-12-21 22:37:49 +0000"
@@ -314,6 +308,12 @@
       "has_items": "2024-12-21 22:37:49 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-21 22:37:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

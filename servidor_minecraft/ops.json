@@ -6,8 +6,20 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5",
+    "name": "Kuro",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "84e914a5-d16e-3dd5-bfa9-e9048641639a",
     "name": "xDogSaur",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7d7a9792-b781-3893-9e35-be8b3107f4fe",
+    "name": "Afarfa",
     "level": 4,
     "bypassesPlayerLimit": false
   }

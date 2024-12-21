@@ -2275,3 +2275,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 22:43:19.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:37027] logged in with entity id 25695 at (-4.5, 75.0, 3.5)
 [21Dec2024 22:43:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
 [21Dec2024 22:43:19.361] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[21Dec2024 22:43:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 22:43:29.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 22:43:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Kuro]
+[21Dec2024 22:43:55.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nucaraga lost connection: Disconnected
+[21Dec2024 22:43:55.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga left the game
+[21Dec2024 22:44:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Zombie
+[21Dec2024 22:46:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[21Dec2024 22:48:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Ol' Betsy]
+[21Dec2024 22:50:11.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Magery]
+[21Dec2024 22:51:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[21Dec2024 22:51:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Take Aim]
+[21Dec2024 22:52:26.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was blown up by Cave Creeper
+[21Dec2024 22:52:29.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
