@@ -28117,6 +28117,12 @@
     },
     "done": true
   },
+  "obs:ob/redstone": {
+    "criteria": {
+      "cobble": "2024-12-21 04:00:41 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/brown_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
@@ -28183,6 +28189,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "phase1": "2024-12-21 03:59:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:39 +0000"
@@ -28204,6 +28216,12 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 04:01:17 +0000"
     },
     "done": true
   },
@@ -28404,6 +28422,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-21 03:55:39 +0000",
       "has_fillet_knife": "2024-12-21 03:55:39 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "cobble": "2024-12-21 04:01:17 +0000"
     },
     "done": true
   },

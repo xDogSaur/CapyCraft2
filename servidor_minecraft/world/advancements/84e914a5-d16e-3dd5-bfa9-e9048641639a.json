@@ -28187,11 +28187,23 @@
     },
     "done": true
   },
+  "obs:ob/magma": {
+    "criteria": {
+      "cobble": "2024-12-21 04:10:04 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/bonemeal_from_fish_bones": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-21 04:04:24 +0000"
+    },
+    "done": false
   },
   "aquaculture:recipes/tools/neptunium_fishing_rod": {
     "criteria": {
@@ -28259,6 +28271,12 @@
     },
     "done": true
   },
+  "obs:phases/phase_7": {
+    "criteria": {
+      "phase1": "2024-12-21 03:59:39 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_the_recipe": "2024-12-21 03:55:28 +0000"
@@ -28280,6 +28298,12 @@
   "aquaculture:recipes/building_blocks/planks_from_driftwood": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 04:00:54 +0000"
     },
     "done": true
   },
@@ -28474,6 +28498,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-21 03:55:28 +0000",
       "has_fillet_knife": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/diamond": {
+    "criteria": {
+      "cobble": "2024-12-21 04:00:54 +0000"
     },
     "done": true
   },
