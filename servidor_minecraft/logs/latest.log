@@ -1575,3 +1575,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 08:25:57.244] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [21Dec2024 08:26:35.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hot Stuff]
 [21Dec2024 08:27:00.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Monster Hunter]
+[21Dec2024 08:31:34.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hot and Coal]
+[21Dec2024 08:32:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Acquire Hardware]
+[21Dec2024 08:33:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from xDogSaur]
+[21Dec2024 08:35:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Witch It]
+[21Dec2024 08:35:00.144] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Iussheepburb the Ninja'/7790, l='ServerLevel[Oneblock Original v2.1.1]', x=-38.05, y=61.00, z=2.24] died: Iussheepburb the Ninja was slain by Afarfa
+[21Dec2024 08:35:13.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [What a Deal!]
+[21Dec2024 08:35:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [How'd You Get This?]

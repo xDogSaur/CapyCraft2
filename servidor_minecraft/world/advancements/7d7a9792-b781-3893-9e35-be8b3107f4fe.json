@@ -2165,6 +2165,12 @@
     },
     "done": true
   },
+  "obs:ob/witch": {
+    "criteria": {
+      "requirement": "2024-12-21 08:35:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_slab": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:48 +0000"
@@ -4317,7 +4323,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-21 08:27:00 +0000"
+      "minecraft:skeleton": "2024-12-21 08:27:00 +0000",
+      "minecraft:witch": "2024-12-21 08:35:00 +0000"
     },
     "done": false
   },
@@ -6348,6 +6355,14 @@
       "has_the_recipe": "2024-12-21 08:23:48 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2024-12-21 08:38:19 +0000",
+      "wheat": "2024-12-21 08:37:55 +0000",
+      "pumpkin": "2024-12-21 08:38:28 +0000"
+    },
+    "done": false
   },
   "alchemistry:recipes/compactor/cesium_dust": {
     "criteria": {
@@ -16849,6 +16864,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-21 08:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:49 +0000"
@@ -17668,6 +17689,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-21 08:32:20 +0000"
     },
     "done": true
   },
@@ -19009,6 +19036,12 @@
     },
     "done": true
   },
+  "obs:ob/coal": {
+    "criteria": {
+      "cobble": "2024-12-21 08:31:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/time_planks": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:49 +0000"
@@ -20212,6 +20245,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 08:35:13 +0000"
     },
     "done": true
   },
@@ -21928,6 +21967,12 @@
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2024-12-21 08:35:13 +0000"
     },
     "done": true
   },
@@ -23957,6 +24002,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
     "criteria": {
       "has_the_recipe": "2024-12-21 08:23:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-21 08:33:41 +0000"
     },
     "done": true
   },
