@@ -1341,3 +1341,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 04:55:39.373] [Server thread/INFO] [Jade/]: Syncing config to Kuro (0a12e6c1-05cd-3604-bd93-fa5ed6ba33c5)
 [21Dec2024 04:55:43.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Kuro to xDogSaur]
 [21Dec2024 04:56:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro fell from a high place
+[21Dec2024 05:02:43.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 05:02:46.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 05:02:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 05:02:59.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 05:05:10.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/1963, l='ServerLevel[Oneblock Original v2.1.1]', x=-43.98, y=61.00, z=-4.40] died, message: 'Visiting Trader was slain by Zombie'
+[21Dec2024 05:05:10.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/1963, l='ServerLevel[Oneblock Original v2.1.1]', x=-43.98, y=61.00, z=-4.40] died: Visiting Trader was slain by Zombie
