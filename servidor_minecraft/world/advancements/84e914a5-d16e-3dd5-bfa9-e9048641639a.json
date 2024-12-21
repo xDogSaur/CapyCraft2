@@ -28281,6 +28281,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-21 07:53:53 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-21 04:04:24 +0000",
@@ -28552,6 +28558,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-21 07:50:18 +0000"
+    },
+    "done": false
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
@@ -28724,6 +28736,12 @@
   "obs:ob/stray": {
     "criteria": {
       "requirement": "2024-12-21 06:50:14 +0000"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-12-21 07:52:45 +0000"
     },
     "done": true
   },

@@ -14460,6 +14460,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-21 07:53:11 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/compactor/tantalum_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:13 +0000"
