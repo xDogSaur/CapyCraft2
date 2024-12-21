@@ -3005,6 +3005,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-21 07:16:01 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/combiner/copper_carbonate_dust": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:11 +0000"
@@ -6363,6 +6369,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2024-12-21 07:18:35 +0000",
       "potato": "2024-12-21 06:16:18 +0000",
       "wheat": "2024-12-21 07:02:47 +0000",
       "carrot": "2024-12-21 06:17:26 +0000"
@@ -20322,6 +20329,12 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-21 07:15:56 +0000"
     },
     "done": true
   },
