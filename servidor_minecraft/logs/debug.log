@@ -7770,3 +7770,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 06:15:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Obsessed with Obsidian]
 [21Dec2024 06:18:38.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
 [21Dec2024 06:18:38.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 06:18:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [I am Iron]
+[21Dec2024 06:23:37.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 06:23:37.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 06:23:46.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/4907, l='ServerLevel[Oneblock Original v2.1.1]', x=0.74, y=-1003.35, z=0.73] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 06:23:46.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/4907, l='ServerLevel[Oneblock Original v2.1.1]', x=0.74, y=-1003.35, z=0.73] died: Visiting Trader fell out of the world
+[21Dec2024 06:24:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Ice Bucket Challenge]
+[21Dec2024 06:24:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Obsessed with Obsidian]
+[21Dec2024 06:25:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hidden in the Depths]
+[21Dec2024 06:25:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hot Stuff]
+[21Dec2024 06:26:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Apothic Affixes]
+[21Dec2024 06:28:37.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 06:28:37.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1

@@ -19850,6 +19850,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2024-12-21 06:26:01 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/combiner/sponge": {
     "criteria": {
       "has_the_recipe": "2024-12-21 05:47:12 +0000"

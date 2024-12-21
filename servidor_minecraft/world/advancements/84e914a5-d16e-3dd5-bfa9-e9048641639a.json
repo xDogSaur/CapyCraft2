@@ -28261,12 +28261,24 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-21 06:25:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-21 04:04:24 +0000",
       "potato": "2024-12-21 04:42:21 +0000"
     },
     "done": false
+  },
+  "obs:ob/obsidian": {
+    "criteria": {
+      "cobble": "2024-12-21 06:24:22 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/tools/neptunium_fishing_rod": {
     "criteria": {
@@ -28277,6 +28289,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-21 06:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-21 06:25:40 +0000"
     },
     "done": true
   },
@@ -28327,9 +28345,21 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-21 06:24:22 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "obs:ob/iron": {
+    "criteria": {
+      "cobble": "2024-12-21 06:18:56 +0000"
     },
     "done": true
   },
@@ -28427,6 +28457,12 @@
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-21 03:55:28 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-21 06:27:41 +0000"
     },
     "done": true
   },

@@ -1467,3 +1467,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 06:13:35.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Step 9]
 [21Dec2024 06:15:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Ice Bucket Challenge]
 [21Dec2024 06:15:19.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Obsessed with Obsidian]
+[21Dec2024 06:18:56.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [I am Iron]
+[21Dec2024 06:23:46.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Visiting Trader'/4907, l='ServerLevel[Oneblock Original v2.1.1]', x=0.74, y=-1003.35, z=0.73] died, message: 'Visiting Trader fell out of the world'
+[21Dec2024 06:23:46.686] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Visiting Trader'/4907, l='ServerLevel[Oneblock Original v2.1.1]', x=0.74, y=-1003.35, z=0.73] died: Visiting Trader fell out of the world
+[21Dec2024 06:24:22.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Ice Bucket Challenge]
+[21Dec2024 06:24:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Obsessed with Obsidian]
+[21Dec2024 06:25:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hidden in the Depths]
+[21Dec2024 06:25:40.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hot Stuff]
+[21Dec2024 06:26:01.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benyaneitor has made the advancement [Apothic Affixes]
