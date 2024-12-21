@@ -28462,6 +28462,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-21 07:34:48 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2024-12-21 03:55:28 +0000"

@@ -7848,3 +7848,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 07:27:39.324] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
 [21Dec2024 07:28:37.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
 [21Dec2024 07:28:37.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 07:32:28.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 07:32:30.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 07:32:36.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 07:32:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor a server operator]
+[21Dec2024 07:33:37.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 07:33:37.637] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
+[21Dec2024 07:34:48.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Dinner's Served!]
+[21Dec2024 07:35:05.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor no longer a server operator]
+[21Dec2024 07:35:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[21Dec2024 07:35:22.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 07:35:25.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made benyaneitor a server operator]
+[21Dec2024 07:38:37.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Oneblock Original v2.1.1
+[21Dec2024 07:38:37.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Oneblock Original v2.1.1
