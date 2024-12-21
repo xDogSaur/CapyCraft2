@@ -2189,3 +2189,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [21Dec2024 21:41:50.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa froze to death
 [21Dec2024 21:42:05.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Sweet Dreams]
 [21Dec2024 21:42:17.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gamerule playersSleepingPercentage is now set to: 1]
+[21Dec2024 21:42:36.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro froze to death
+[21Dec2024 21:42:39.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Pillager
+[21Dec2024 21:43:18.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> mono?
+[21Dec2024 21:44:46.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [I Found It Underground]
+[21Dec2024 21:45:35.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Stone Age]
+[21Dec2024 21:47:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Isn't It Iron Pick]
+[21Dec2024 21:47:57.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kuro has made the advancement [Getting an Upgrade]
+[21Dec2024 21:48:12.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[21Dec2024 21:48:14.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro no longer a server operator]
+[21Dec2024 21:48:29.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[21Dec2024 21:49:35.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[21Dec2024 21:49:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[21Dec2024 21:49:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Kuro a server operator]
+[21Dec2024 21:50:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hot Stuff]
