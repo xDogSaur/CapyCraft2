@@ -30,3 +30,26 @@
 [22Dec2024 00:35:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hunt and Gather]
 [22Dec2024 00:42:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [22Dec2024 00:42:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was grilled to perfection
+[22Dec2024 00:48:04.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 00:48:12.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 00:50:28.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/56639, l='ServerLevel[world]', x=323.87, y=72.00, z=-6.17] died: Honeyed Archer was shot by xDogSaur
+[22Dec2024 00:50:41.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=335, y=76, z=2}
+[22Dec2024 00:50:42.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=76, z=4} BlockPos{x=334, y=76, z=6}
+[22Dec2024 00:50:42.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=76, z=4} BlockPos{x=334, y=76, z=6}
+[22Dec2024 00:50:42.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=76, z=4} BlockPos{x=334, y=76, z=6}
+[22Dec2024 00:55:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 32 [Torch] to xDogSaur]
+[22Dec2024 00:56:15.388] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 00:56:15.391] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 00:56:15.391] [Worker-Main-35/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[22Dec2024 00:56:18.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [We Need to Go Deeper]
+[22Dec2024 00:56:22.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9417ms or 188 ticks behind
+[22Dec2024 00:56:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Nightmare Fuel]
+[22Dec2024 00:57:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Golden Boots] to xDogSaur]
+[22Dec2024 00:58:02.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 19 [Block of Gold] to xDogSaur]
+[22Dec2024 00:59:15.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [A Terrible Fortress]
+[22Dec2024 01:00:14.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Into Fire]
+[22Dec2024 01:01:30.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Rob the Rock Smasher using [Rob's Infernal Steel Claymore of the Mana-tapped]
+[22Dec2024 01:01:31.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Oh Shiny]
+[22Dec2024 01:01:47.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 140.500000, 77.500000, 124.500000]
+[22Dec2024 01:03:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Who is Cutting Onions?]
+[22Dec2024 01:04:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
