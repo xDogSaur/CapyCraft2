@@ -24,3 +24,6 @@
 [22Dec2024 00:18:49.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [A Seedy Place]
 [22Dec2024 00:21:02.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Amateur Archaeologist]
 [22Dec2024 00:22:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Enchanter]
+[22Dec2024 00:29:46.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[22Dec2024 00:29:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[22Dec2024 00:33:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
