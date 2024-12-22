@@ -697,3 +697,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 07:13:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 19 [Nether Quartz] to xDogSaur]
 [22Dec2024 07:14:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
 [22Dec2024 07:31:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 07:39:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Cover Me with Diamonds]
+[22Dec2024 07:45:05.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[22Dec2024 07:45:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
