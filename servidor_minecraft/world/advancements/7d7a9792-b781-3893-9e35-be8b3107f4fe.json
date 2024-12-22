@@ -5208,6 +5208,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-22 06:52:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-22 06:50:48 +0000"
@@ -5307,6 +5313,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-22 06:28:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-22 06:52:23 +0000"
     },
     "done": true
   },

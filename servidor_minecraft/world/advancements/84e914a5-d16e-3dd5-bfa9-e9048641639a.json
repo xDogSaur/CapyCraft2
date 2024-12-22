@@ -318,6 +318,7 @@
       "minecraft:cold_ocean": "2024-12-21 23:42:55 +0000",
       "minecraft:forest": "2024-12-21 21:12:52 +0000",
       "minecraft:frozen_ocean": "2024-12-22 06:50:37 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-22 06:53:12 +0000",
       "minecraft:snowy_beach": "2024-12-22 06:42:41 +0000",
       "minecraft:plains": "2024-12-21 21:21:33 +0000"
     },
@@ -7150,6 +7151,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-22 06:55:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_cooking_pot": {
     "criteria": {
       "cooking_pot": "2024-12-22 06:23:42 +0000"
@@ -7159,6 +7166,18 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-22 06:39:09 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-22 06:56:07 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2024-12-22 07:01:42 +0000"
     },
     "done": true
   },
@@ -7189,6 +7208,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-22 06:46:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-22 06:55:59 +0000"
     },
     "done": true
   },

@@ -690,3 +690,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 06:52:35.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [22Dec2024 06:52:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: The difficulty has been set to Hard]
 [22Dec2024 06:54:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 320.500000, 63.500000, -49.500000]
+[22Dec2024 07:01:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Brass Age]
