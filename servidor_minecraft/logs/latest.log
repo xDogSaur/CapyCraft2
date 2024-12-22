@@ -752,3 +752,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 08:54:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [22Dec2024 08:54:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [22Dec2024 08:57:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
+[22Dec2024 09:08:04.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.rogues.arms_merchant'/27041, l='ServerLevel[world]', x=270.05, y=69.00, z=29.49] died, message: 'entity.minecraft.villager.rogues.arms_merchant was slain by Zombie'
+[22Dec2024 09:18:06.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
+[22Dec2024 09:33:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [A Pair of Giants]
+[22Dec2024 09:34:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 09:34:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was processed by Crushing Wheels
+[22Dec2024 09:34:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
