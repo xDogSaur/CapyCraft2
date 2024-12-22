@@ -16,5 +16,11 @@
     "name": "xDogSaur",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7d7a9792-b781-3893-9e35-be8b3107f4fe",
+    "name": "Afarfa",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
