@@ -734,3 +734,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 08:25:18.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [22Dec2024 08:28:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [22Dec2024 08:34:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 08:43:46.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/36252, l='ServerLevel[world]', x=285.48, y=63.00, z=-31.00] died: Undead Knight was shot by xDogSaur
+[22Dec2024 08:46:40.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Chasity the Dirt Digger'/36823, l='ServerLevel[world]', x=303.21, y=63.00, z=-28.46] died: Chasity the Dirt Digger was shot by xDogSaur
+[22Dec2024 08:46:55.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jim the Superior'/36903, l='ServerLevel[world]', x=309.70, y=63.00, z=-30.70] died: Jim the Superior was shot by xDogSaur
+[22Dec2024 08:47:05.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gregory'/36892, l='ServerLevel[world]', x=304.64, y=63.00, z=-25.50] died: Gregory was shot by xDogSaur
+[22Dec2024 08:47:11.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Major Stefan the Sticky'/36905, l='ServerLevel[world]', x=314.61, y=63.00, z=-21.50] died: Major Stefan the Sticky was shot by xDogSaur
+[22Dec2024 08:47:42.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Darkvan the Sticky'/37176, l='ServerLevel[world]', x=315.00, y=63.00, z=-28.44] died: Darkvan the Sticky was shot by xDogSaur
+[22Dec2024 08:47:56.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duke Tamara the Jerk'/37238, l='ServerLevel[world]', x=312.19, y=63.00, z=-31.10] died: Duke Tamara the Jerk was shot by xDogSaur
+[22Dec2024 08:48:05.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mark the Light'/37287, l='ServerLevel[world]', x=314.36, y=63.00, z=-29.61] died: Mark the Light was shot by xDogSaur
+[22Dec2024 08:48:27.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Madam Amanda the Non-Suspicious'/37341, l='ServerLevel[world]', x=312.54, y=63.00, z=-21.53] died: Madam Amanda the Non-Suspicious was shot by xDogSaur
+[22Dec2024 08:48:38.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duchess Paul the Alien'/37423, l='ServerLevel[world]', x=312.75, y=63.00, z=-27.57] died: Duchess Paul the Alien was shot by xDogSaur
+[22Dec2024 08:49:00.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Kenny the President'/37494, l='ServerLevel[world]', x=313.64, y=63.00, z=-29.13] died: Kenny the President was shot by xDogSaur
+[22Dec2024 08:49:07.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Zach the Eagle'/37543, l='ServerLevel[world]', x=315.33, y=63.00, z=-27.53] died: Zach the Eagle was shot by xDogSaur
+[22Dec2024 08:49:16.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Morbo the Legendary'/37611, l='ServerLevel[world]', x=313.29, y=63.00, z=-28.75] died: Morbo the Legendary was shot by xDogSaur
+[22Dec2024 08:50:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 08:52:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 08:54:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 08:54:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]

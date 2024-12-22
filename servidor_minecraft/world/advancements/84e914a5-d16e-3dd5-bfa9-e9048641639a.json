@@ -2693,6 +2693,7 @@
       "minecraft:piglin_brute": "2024-12-22 01:20:03 +0000",
       "minecraft:creeper": "2024-12-21 23:59:48 +0000",
       "minecraft:zombified_piglin": "2024-12-22 01:13:12 +0000",
+      "minecraft:witch": "2024-12-22 08:49:00 +0000",
       "minecraft:wither_skeleton": "2024-12-22 01:16:20 +0000",
       "minecraft:husk": "2024-12-22 06:45:29 +0000",
       "minecraft:cave_spider": "2024-12-21 22:42:57 +0000",
@@ -7417,6 +7418,12 @@
     },
     "done": true
   },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-22 08:37:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-22 07:26:12 +0000"
@@ -8098,6 +8105,12 @@
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-22 07:31:31 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-12-22 08:40:10 +0000"
     },
     "done": true
   },
