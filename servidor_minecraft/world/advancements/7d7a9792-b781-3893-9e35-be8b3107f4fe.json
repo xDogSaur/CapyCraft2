@@ -306,6 +306,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-22 00:14:26 +0000",
+      "minecraft:taiga": "2024-12-22 21:38:46 +0000",
       "minecraft:beach": "2024-12-22 00:06:54 +0000",
       "minecraft:river": "2024-12-21 21:31:12 +0000",
       "minecraft:snowy_taiga": "2024-12-21 21:18:31 +0000",
@@ -313,6 +314,7 @@
       "minecraft:forest": "2024-12-21 21:17:50 +0000",
       "minecraft:ocean": "2024-12-22 21:34:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-22 00:14:34 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-22 21:36:34 +0000",
       "minecraft:plains": "2024-12-21 21:19:34 +0000"
     },
     "done": false
@@ -1231,12 +1233,22 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-12-22 21:43:54 +0000",
+      "shrubland": "2024-12-22 21:42:54 +0000",
+      "rocky_shrubland": "2024-12-22 21:41:33 +0000",
+      "bayou": "2024-12-22 21:43:55 +0000",
+      "floodplain": "2024-12-22 21:45:11 +0000",
+      "marsh": "2024-12-22 21:43:10 +0000",
       "cold_desert": "2024-12-21 22:05:06 +0000",
+      "old_growth_woodland": "2024-12-22 21:44:14 +0000",
       "field": "2024-12-22 00:17:09 +0000",
+      "orchard": "2024-12-22 21:41:24 +0000",
+      "overgrown_greens": "2024-12-22 21:43:18 +0000",
       "coniferous_forest": "2024-12-21 21:31:21 +0000",
       "forested_field": "2024-12-22 00:13:00 +0000",
       "fir_clearing": "2024-12-21 21:21:48 +0000",
-      "gravel_beach": "2024-12-21 22:06:34 +0000"
+      "gravel_beach": "2024-12-21 22:06:34 +0000",
+      "rainforest": "2024-12-22 21:45:23 +0000"
     },
     "done": false
   },
@@ -5401,6 +5413,12 @@
   "farmersdelight:recipes/food/cabbage_from_leaves": {
     "criteria": {
       "has_cabbage_leaf": "2024-12-22 21:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-22 21:38:12 +0000"
     },
     "done": true
   },
