@@ -7580,6 +7580,12 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2024-12-22 08:56:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2024-12-22 08:19:17 +0000"

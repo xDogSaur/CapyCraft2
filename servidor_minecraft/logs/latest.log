@@ -751,3 +751,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 08:52:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [22Dec2024 08:54:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [22Dec2024 08:54:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 08:57:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
