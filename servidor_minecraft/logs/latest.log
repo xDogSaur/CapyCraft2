@@ -27,3 +27,6 @@
 [22Dec2024 00:29:46.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
 [22Dec2024 00:29:46.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
 [22Dec2024 00:33:22.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 00:35:02.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Hunt and Gather]
+[22Dec2024 00:42:10.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 00:42:23.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was grilled to perfection
