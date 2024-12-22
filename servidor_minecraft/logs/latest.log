@@ -1,82 +1,82 @@
-[22Dec2024 06:04:42.211] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[22Dec2024 06:04:42.215] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[22Dec2024 06:04:44.417] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22Dec2024 06:04:44.433] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[22Dec2024 06:04:44.468] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[22Dec2024 06:04:44.496] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[22Dec2024 06:04:44.554] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/CapyCraft2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23171%23174!/ Service=ModLauncher Env=SERVER
-[22Dec2024 06:04:45.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 06:04:45.223] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 06:04:45.229] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 06:04:45.233] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[22Dec2024 06:04:46.095] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[22Dec2024 06:04:46.098] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 58 dependencies adding them to mods collection
-[22Dec2024 06:04:47.286] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 15 candidates to load
-[22Dec2024 06:04:49.585] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[22Dec2024 06:04:53.027] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22Dec2024 06:04:53.761] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[22Dec2024 06:04:53.779] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[22Dec2024 06:04:54.364] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[22Dec2024 06:04:55.572] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:04:55.589] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:04:56.333] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[22Dec2024 06:04:56.376] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
-[22Dec2024 06:04:56.385] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:04:56.388] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:04:56.407] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
-[22Dec2024 06:04:56.435] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[22Dec2024 06:04:56.439] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[22Dec2024 06:04:56.439] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
-[22Dec2024 06:04:56.442] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[22Dec2024 06:04:56.444] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[22Dec2024 06:04:56.444] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
-[22Dec2024 06:04:58.960] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[22Dec2024 06:04:58.962] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[22Dec2024 06:04:58.962] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer from mod (unknown)
-[22Dec2024 06:04:58.964] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[22Dec2024 06:04:58.965] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[22Dec2024 06:04:58.965] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu from mod (unknown)
-[22Dec2024 06:04:58.969] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[22Dec2024 06:04:58.970] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel from mod (unknown)
-[22Dec2024 06:04:59.457] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[22Dec2024 06:05:06.548] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
-[22Dec2024 06:05:08.660] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:05:08.661] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[22Dec2024 06:05:08.832] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[22Dec2024 06:05:12.401] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$zjj000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[22Dec2024 06:05:12.648] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[22Dec2024 06:05:13.311] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[22Dec2024 06:05:13.312] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[22Dec2024 06:05:15.644] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_damage] Expected: 730 Got: 35
-[22Dec2024 06:05:15.645] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_chance] Expected: 731 Got: 36
-[22Dec2024 06:05:15.645] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:haste] Expected: 732 Got: 37
-[22Dec2024 06:05:15.931] [main/INFO] [shield_api/]: Shield API initialized!
-[22Dec2024 06:05:18.224] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[22Dec2024 06:05:19.162] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[22Dec2024 06:05:19.163] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[22Dec2024 06:05:19.164] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[22Dec2024 06:05:19.180] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[22Dec2024 06:05:19.181] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[22Dec2024 06:05:19.182] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[22Dec2024 06:05:19.183] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[22Dec2024 06:05:19.380] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[22Dec2024 06:05:19.381] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[22Dec2024 06:05:19.987] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
-[22Dec2024 06:05:20.026] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
-[22Dec2024 06:05:20.231] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[22Dec2024 06:05:20.255] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[22Dec2024 06:05:20.267] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[22Dec2024 06:05:21.658] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
-[22Dec2024 06:05:21.871] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[22Dec2024 06:05:23.509] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
-[22Dec2024 06:05:23.509] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
-[22Dec2024 06:05:30.605] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
-[22Dec2024 06:05:30.605] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
-[22Dec2024 06:05:30.606] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
-[22Dec2024 06:05:30.606] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
-[22Dec2024 06:05:30.607] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
-[22Dec2024 06:05:30.647] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[22Dec2024 06:05:31.094] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22Dec2024 21:07:28.757] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22Dec2024 21:07:28.762] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[22Dec2024 21:07:30.895] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Dec2024 21:07:30.913] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[22Dec2024 21:07:31.002] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[22Dec2024 21:07:31.031] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[22Dec2024 21:07:31.109] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/CapyCraft2/servidor_minecraft/mods/Connector-1.0.0-beta.46+1.20.1.jar%23171%23174!/ Service=ModLauncher Env=SERVER
+[22Dec2024 21:07:31.896] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 21:07:31.902] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 21:07:31.908] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 21:07:31.912] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[22Dec2024 21:07:32.860] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Dec2024 21:07:32.868] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 58 dependencies adding them to mods collection
+[22Dec2024 21:07:34.003] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 15 candidates to load
+[22Dec2024 21:07:36.349] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[22Dec2024 21:07:40.032] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Dec2024 21:07:40.885] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[22Dec2024 21:07:40.918] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Dec2024 21:07:41.646] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Dec2024 21:07:42.969] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:42.987] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:43.954] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[22Dec2024 21:07:44.017] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[22Dec2024 21:07:44.027] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:44.033] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:44.049] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
+[22Dec2024 21:07:44.117] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[22Dec2024 21:07:44.121] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[22Dec2024 21:07:44.122] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[22Dec2024 21:07:44.144] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[22Dec2024 21:07:44.144] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[22Dec2024 21:07:44.144] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[22Dec2024 21:07:46.671] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[22Dec2024 21:07:46.672] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[22Dec2024 21:07:46.673] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer from mod (unknown)
+[22Dec2024 21:07:46.679] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[22Dec2024 21:07:46.679] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[22Dec2024 21:07:46.680] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu from mod (unknown)
+[22Dec2024 21:07:46.681] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[22Dec2024 21:07:46.685] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel from mod (unknown)
+[22Dec2024 21:07:47.402] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[22Dec2024 21:07:53.113] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[22Dec2024 21:07:55.396] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:55.397] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Dec2024 21:07:55.726] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[22Dec2024 21:07:59.549] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin from mod refurbished_furniture::handler$zjj000$refurbished_furniture$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[22Dec2024 21:07:59.823] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[22Dec2024 21:08:00.332] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[22Dec2024 21:08:00.340] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[22Dec2024 21:08:02.853] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_damage] Expected: 730 Got: 35
+[22Dec2024 21:08:02.854] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:critical_chance] Expected: 731 Got: 36
+[22Dec2024 21:08:02.854] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Registered object did not get ID it asked for. Name: ResourceKey[minecraft:mob_effect / spell_power:haste] Expected: 732 Got: 37
+[22Dec2024 21:08:03.260] [main/INFO] [shield_api/]: Shield API initialized!
+[22Dec2024 21:08:05.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[22Dec2024 21:08:07.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[22Dec2024 21:08:07.060] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[22Dec2024 21:08:07.061] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[22Dec2024 21:08:07.062] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[22Dec2024 21:08:07.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[22Dec2024 21:08:07.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[22Dec2024 21:08:07.070] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[22Dec2024 21:08:07.326] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[22Dec2024 21:08:07.327] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[22Dec2024 21:08:07.944] [modloading-worker-0/INFO] [Mystical Agriculture/]: Registered plugin: com.blakebr0.mysticalagriculture.lib.ModCorePlugin
+[22Dec2024 21:08:07.959] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 1 plugins
+[22Dec2024 21:08:08.095] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[22Dec2024 21:08:08.104] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[22Dec2024 21:08:08.115] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[22Dec2024 21:08:09.738] [modloading-worker-0/INFO] [toughasnails/]: Serene Seasons detected. Enabling season modifier.
+[22Dec2024 21:08:10.137] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[22Dec2024 21:08:11.843] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Capturing existing worldgen registries
+[22Dec2024 21:08:11.844] [main/INFO] [net.minecraft.resources.RegistryDataLoader/]: Found 0 injected RegistryDataLoader worldgen registries
+[22Dec2024 21:08:19.563] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 136 crops
+[22Dec2024 21:08:19.566] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 6 crop tiers
+[22Dec2024 21:08:19.566] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 2 crop types
+[22Dec2024 21:08:19.567] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 55 augments
+[22Dec2024 21:08:19.567] [modloading-worker-0/INFO] [Mystical Agriculture/]: Loaded 20 mob soul types
+[22Dec2024 21:08:19.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[22Dec2024 21:08:20.294] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -91,54 +91,54 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[22Dec2024 06:05:31.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[22Dec2024 06:05:31.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
-[22Dec2024 06:05:31.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[22Dec2024 06:05:31.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[22Dec2024 06:05:31.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
-[22Dec2024 06:05:32.187] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
-[22Dec2024 06:05:32.188] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22Dec2024 06:05:32.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[22Dec2024 06:05:32.340] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[22Dec2024 06:05:32.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[22Dec2024 06:05:38.071] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[22Dec2024 06:05:38.072] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[22Dec2024 06:05:38.072] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[22Dec2024 06:05:38.075] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[22Dec2024 06:05:38.326] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[22Dec2024 06:05:38.490] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[22Dec2024 06:05:38.490] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[22Dec2024 06:05:38.491] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[22Dec2024 06:05:38.491] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[22Dec2024 06:05:38.492] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[22Dec2024 06:05:38.492] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[22Dec2024 06:05:38.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[22Dec2024 06:05:38.493] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
-[22Dec2024 06:05:38.549] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22Dec2024 06:05:38.553] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[22Dec2024 06:05:38.553] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[22Dec2024 06:05:38.554] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[22Dec2024 06:05:38.555] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[22Dec2024 06:05:38.556] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[22Dec2024 06:05:38.557] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[22Dec2024 06:05:38.633] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[22Dec2024 06:05:38.644] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[22Dec2024 06:05:38.693] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
-[22Dec2024 06:05:38.890] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
-[22Dec2024 06:05:38.947] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
-[22Dec2024 06:05:38.952] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
-[22Dec2024 06:05:38.956] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[22Dec2024 06:05:38.959] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.blakebr0.mysticalagriculture.compat.JadeCompat
-[22Dec2024 06:05:38.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22Dec2024 06:05:39.004] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22Dec2024 06:05:39.022] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22Dec2024 06:05:47.281] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22Dec2024 06:05:52.407] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
-[22Dec2024 06:05:52.410] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
-[22Dec2024 06:05:55.649] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
-[22Dec2024 06:05:56.107] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[22Dec2024 06:05:56.456] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.5.2 MC 1.20.1.jar)
-[22Dec2024 06:05:57.536] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:apotheosis:book
+[22Dec2024 21:08:20.310] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[22Dec2024 21:08:20.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA Current: 1.0.8 Target: 1.0.8
+[22Dec2024 21:08:20.672] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[22Dec2024 21:08:21.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[22Dec2024 21:08:21.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Starting version check at https://mrcrayfish.com/modupdatejson?id=configured
+[22Dec2024 21:08:21.371] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [configured] Found status: BETA Current: 2.2.3 Target: 2.2.3
+[22Dec2024 21:08:21.372] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Dec2024 21:08:21.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[22Dec2024 21:08:21.482] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[22Dec2024 21:08:21.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[22Dec2024 21:08:28.346] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[22Dec2024 21:08:28.347] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[22Dec2024 21:08:28.348] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[22Dec2024 21:08:28.358] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[22Dec2024 21:08:28.591] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[22Dec2024 21:08:28.695] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[22Dec2024 21:08:28.695] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[22Dec2024 21:08:28.696] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[22Dec2024 21:08:28.696] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[22Dec2024 21:08:28.696] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[22Dec2024 21:08:28.697] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[22Dec2024 21:08:28.697] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[22Dec2024 21:08:28.698] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:bolt_cool_down for minecraft:living_entity
+[22Dec2024 21:08:28.742] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22Dec2024 21:08:28.743] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[22Dec2024 21:08:28.744] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22Dec2024 21:08:28.744] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22Dec2024 21:08:28.745] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22Dec2024 21:08:28.745] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22Dec2024 21:08:28.746] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22Dec2024 21:08:28.842] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[22Dec2024 21:08:28.846] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[22Dec2024 21:08:28.869] [modloading-worker-0/INFO] [io.redspace.ironsspellbooks.IronsSpellbooks/]: Got IMC []
+[22Dec2024 21:08:28.966] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[22Dec2024 21:08:28.990] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
+[22Dec2024 21:08:28.992] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
+[22Dec2024 21:08:28.993] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[22Dec2024 21:08:28.993] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.blakebr0.mysticalagriculture.compat.JadeCompat
+[22Dec2024 21:08:28.994] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Dec2024 21:08:29.008] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Dec2024 21:08:29.013] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Dec2024 21:08:37.273] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Dec2024 21:08:43.228] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/assets/.mcassetsroot' uses unexpected schema
+[22Dec2024 21:08:43.229] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/CapyCraft2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23247!/data/.mcassetsroot' uses unexpected schema
+[22Dec2024 21:08:45.941] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[22Dec2024 21:08:46.346] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Dec2024 21:08:46.842] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.5.2 MC 1.20.1.jar)
+[22Dec2024 21:08:48.984] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:apotheosis:book
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -190,7 +190,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[22Dec2024 06:05:57.788] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:arrow_recipe from createtaczauto:recipes/arrow_recipe.json
+[22Dec2024 21:08:49.480] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:arrow_recipe from createtaczauto:recipes/arrow_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -215,7 +215,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:57.801] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:asurine_recipe from create_renewability:recipes/asurine_recipe.json
+[22Dec2024 21:08:49.492] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:asurine_recipe from create_renewability:recipes/asurine_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -241,7 +241,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:57.987] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:fusion_cell_recipe from createtaczauto:recipes/fusion_cell_recipe.json
+[22Dec2024 21:08:49.647] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:fusion_cell_recipe from createtaczauto:recipes/fusion_cell_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 25 column 4 path $.result
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -266,7 +266,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:58.003] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
+[22Dec2024 21:08:49.689] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:large_gunpowder_recipe_2 from createtaczauto:recipes/large_gunpowder_recipe_2.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Expected name at line 25 column 4 path $.result.item
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -291,7 +291,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:58.021] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:nails_recipe from createtaczauto:recipes/nails_recipe.json
+[22Dec2024 21:08:49.714] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:nails_recipe from createtaczauto:recipes/nails_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 18 column 6 path $.result
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -316,7 +316,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:58.025] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:ochrum_recipe from create_renewability:recipes/ochrum_recipe.json
+[22Dec2024 21:08:49.722] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file create_renewability:ochrum_recipe from create_renewability:recipes/ochrum_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 6 path $.pattern
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -342,7 +342,7 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:58.040] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:recipe_338_lapua_recipe from createtaczauto:recipes/recipe_338_lapua_recipe.json
+[22Dec2024 21:08:49.811] [Worker-Main-1/ERROR] [net.minecraft.server.packs.resources.SimpleJsonResourceReloadListener/]: Couldn't parse data file createtaczauto:recipe_338_lapua_recipe from createtaczauto:recipes/recipe_338_lapua_recipe.json
 com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Unterminated array at line 22 column 6 path $.ingredients[6]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:526) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at net.minecraft.util.GsonHelper.m_263475_(GsonHelper.java:531) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
@@ -367,10 +367,10 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar%2372!/:?]
 	at net.minecraft.util.GsonHelper.m_13780_(GsonHelper.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	... 13 more
-[22Dec2024 06:05:58.971] [main/INFO] [placebo/]: Registered 34 additional loot tables.
-[22Dec2024 06:05:59.398] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
-[22Dec2024 06:05:59.574] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:05:59.717] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
+[22Dec2024 21:08:50.326] [main/INFO] [placebo/]: Registered 34 additional loot tables.
+[22Dec2024 21:08:50.697] [main/INFO] [Cucumber Library/]: Registered 0 recipes in 0 ms
+[22Dec2024 21:08:50.780] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:50.911] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe irons_spellbooks:curios/concentration_amulet
 com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -406,13 +406,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'irons_spellbooks:mithril_ingo
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 06:05:59.794] [main/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (create_renewability:stone_crushing_recipe) has more item outputs (8) than supported (7).
-[22Dec2024 06:05:59.809] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[22Dec2024 06:05:59.834] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[22Dec2024 06:05:59.836] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:05:59.921] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:05:59.946] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:05:59.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[22Dec2024 21:08:50.981] [main/WARN] [com.simibubi.create.Create/]: Your custom create:crushing recipe (create_renewability:stone_crushing_recipe) has more item outputs (8) than supported (7).
+[22Dec2024 21:08:51.004] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[22Dec2024 21:08:51.031] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[22Dec2024 21:08:51.033] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.076] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.096] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -448,7 +448,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 06:05:59.998] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[22Dec2024 21:08:51.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23252!/:?]
@@ -479,7 +479,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 06:06:00.039] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createtaczeroauto:ammo_12g_recipe
+[22Dec2024 21:08:51.154] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createtaczeroauto:ammo_12g_recipe
 com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casing'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -516,14 +516,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'createtaczauto:12_gauge_casin
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 06:06:00.078] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.082] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[22Dec2024 06:06:00.083] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.160] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[22Dec2024 06:06:00.338] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.381] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[22Dec2024 06:06:00.408] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.411] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[22Dec2024 21:08:51.177] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.178] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[22Dec2024 21:08:51.179] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.246] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[22Dec2024 21:08:51.347] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.422] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[22Dec2024 21:08:51.457] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.473] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23247!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -550,211 +550,100 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[22Dec2024 06:06:00.427] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.497] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[22Dec2024 06:06:00.500] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[22Dec2024 06:06:00.500] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[22Dec2024 06:06:00.510] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[22Dec2024 06:06:00.538] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 51 recipes
-[22Dec2024 06:06:01.050] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4238 advancements
-[22Dec2024 06:06:01.076] [main/INFO] [placebo/]: Registered 26 additional recipes.
-[22Dec2024 06:06:01.142] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[22Dec2024 06:06:01.155] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[22Dec2024 06:06:01.174] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[22Dec2024 06:06:01.223] [main/INFO] [placebo/]: Registered 28 gear_sets.
-[22Dec2024 06:06:01.228] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
-[22Dec2024 06:06:01.232] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
-[22Dec2024 06:06:01.262] [main/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
-[22Dec2024 06:06:01.270] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
-[22Dec2024 06:06:01.272] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
-[22Dec2024 06:06:01.273] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
-[22Dec2024 06:06:01.274] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
-[22Dec2024 06:06:01.274] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
-[22Dec2024 06:06:01.276] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
-[22Dec2024 06:06:01.277] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
-[22Dec2024 06:06:01.278] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
-[22Dec2024 06:06:01.278] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
-[22Dec2024 06:06:01.279] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
-[22Dec2024 06:06:01.279] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
-[22Dec2024 06:06:01.279] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
-[22Dec2024 06:06:01.305] [main/INFO] [Apotheosis : Adventure/]: Registered 34 gems.
-[22Dec2024 06:06:01.321] [main/INFO] [Apotheosis : Adventure/]: Registered 100 affix_loot_entries.
-[22Dec2024 06:06:01.334] [main/INFO] [Apotheosis : Adventure/]: Registered 25 bosses.
-[22Dec2024 06:06:01.349] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
-[22Dec2024 06:06:01.354] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
-[22Dec2024 06:06:01.362] [main/INFO] [Apotheosis : Village/]: Registered 29 wanderer_trades.
-[22Dec2024 06:06:05.560] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 13 ms
-[22Dec2024 06:06:05.563] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 1 ms
-[22Dec2024 06:06:06.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22Dec2024 06:06:06.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22Dec2024 06:06:06.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22Dec2024 06:06:06.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22Dec2024 06:06:06.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22Dec2024 06:06:06.641] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22Dec2024 06:06:06.767] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22Dec2024 06:06:06.767] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22Dec2024 06:06:06.768] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22Dec2024 06:06:06.768] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22Dec2024 06:06:07.239] [Server thread/INFO] [Framework/]: Loading server configs...
-[22Dec2024 06:06:07.284] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[22Dec2024 06:06:07.285] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[22Dec2024 06:06:07.286] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[22Dec2024 06:06:08.312] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22Dec2024 06:06:08.314] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[22Dec2024 06:06:08.314] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22Dec2024 06:06:27.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22Dec2024 06:06:40.138] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.139] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.141] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.147] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.152] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.165] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.169] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.173] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.187] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.191] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.195] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.199] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.209] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.214] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.219] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.225] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.237] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:40.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:41.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:41.938] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22Dec2024 06:06:42.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
-[22Dec2024 06:06:42.892] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14955 ms
-[22Dec2024 06:06:42.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (36.103s)! For help, type "help"
-[22Dec2024 06:06:43.003] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22Dec2024 06:06:43.135] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 115816 bytes (in 12 string chunks with the size of 10000)
-[22Dec2024 06:08:52.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:60635] logged in with entity id 99 at (326.3677467219566, 63.0, -49.63680936693258)
-[22Dec2024 06:08:52.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
-[22Dec2024 06:08:52.889] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
-[22Dec2024 06:08:54.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2392ms or 47 ticks behind
-[22Dec2024 06:09:14.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5345ms or 106 ticks behind
-[22Dec2024 06:10:27.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 06:14:42.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 06:17:02.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Crab]
-[22Dec2024 06:17:02.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Crab]
-[22Dec2024 06:17:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Crab]
-[22Dec2024 06:17:20.515] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.240.213.114:43217] logged in with entity id 1674 at (342.52752649599034, 63.0, -51.16540981185764)
-[22Dec2024 06:17:20.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
-[22Dec2024 06:17:21.010] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
-[22Dec2024 06:17:24.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
-[22Dec2024 06:23:32.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
-[22Dec2024 06:23:42.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Dinner's Served!]
-[22Dec2024 06:30:41.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=65, z=-36} BlockPos{x=306, y=66, z=-36}
-[22Dec2024 06:30:41.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=65, z=-36} BlockPos{x=306, y=66, z=-36}
-[22Dec2024 06:30:48.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:48.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:48.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:48.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.128] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:30:49.278] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=67, z=-34} BlockPos{x=316, y=66, z=-35}
-[22Dec2024 06:31:11.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=301, y=68, z=-31} BlockPos{x=301, y=64, z=-30}
-[22Dec2024 06:31:34.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:31:34.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:31:34.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:31:34.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:31:34.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:31:34.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=68, z=-28} BlockPos{x=305, y=68, z=-29}
-[22Dec2024 06:33:05.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=64, z=-31} BlockPos{x=302, y=65, z=-30}
-[22Dec2024 06:33:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Enchanter]
-[22Dec2024 06:34:19.358] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/277, l='ServerLevel[world]', x=347.12, y=80.00, z=63.90] died, message: 'Farmer was slain by Zombie'
-[22Dec2024 06:38:14.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[22Dec2024 06:38:36.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[22Dec2024 06:38:52.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
-[22Dec2024 06:39:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
-[22Dec2024 06:39:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
-[22Dec2024 06:42:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Epic!]
-[22Dec2024 06:49:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
-[22Dec2024 06:49:13.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 06:50:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
-[22Dec2024 06:50:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
-[22Dec2024 06:50:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 06:50:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
-[22Dec2024 06:52:35.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[22Dec2024 06:52:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: The difficulty has been set to Hard]
-[22Dec2024 06:54:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 320.500000, 63.500000, -49.500000]
-[22Dec2024 07:01:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Brass Age]
-[22Dec2024 07:13:02.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made a a server operator]
-[22Dec2024 07:13:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
-[22Dec2024 07:13:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made a no longer a server operator]
-[22Dec2024 07:13:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 19 [Nether Quartz] to xDogSaur]
-[22Dec2024 07:14:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
-[22Dec2024 07:31:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
-[22Dec2024 07:39:21.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Cover Me with Diamonds]
-[22Dec2024 07:45:05.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
-[22Dec2024 07:45:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
-[22Dec2024 07:54:13.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 07:54:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 07:58:41.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[22Dec2024 07:59:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur got cut in half by a Mechanical Saw
-[22Dec2024 07:59:58.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[22Dec2024 08:09:06.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:09:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:09:21.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:09:40.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:10:21.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:10:53.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=68, z=-26} BlockPos{x=308, y=68, z=-26}
-[22Dec2024 08:10:53.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=68, z=-26} BlockPos{x=308, y=68, z=-26}
-[22Dec2024 08:10:53.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=68, z=-26} BlockPos{x=308, y=68, z=-26}
-[22Dec2024 08:10:53.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=306, y=68, z=-26} BlockPos{x=308, y=68, z=-26}
-[22Dec2024 08:10:58.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:11:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:11:38.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 08:11:40.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:11:51.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=352, y=65, z=-25} BlockPos{x=351, y=64, z=-26}
-[22Dec2024 08:11:53.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=346, y=66, z=-23} BlockPos{x=346, y=64, z=-25}
-[22Dec2024 08:11:54.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=347, y=67, z=-23} BlockPos{x=346, y=65, z=-23}
-[22Dec2024 08:12:14.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:13:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 2 [Diamond] to xDogSaur]
-[22Dec2024 08:13:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Diamond] to xDogSaur]
-[22Dec2024 08:13:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 5 experience levels to xDogSaur]
-[22Dec2024 08:16:19.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 15 [Emerald] to xDogSaur]
-[22Dec2024 08:16:23.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [What a Deal!]
-[22Dec2024 08:19:17.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 256 [Copper Ore] to xDogSaur]
-[22Dec2024 08:19:58.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
-[22Dec2024 08:24:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:25:00.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 08:25:18.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:28:56.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 08:34:51.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:43:46.601] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/36252, l='ServerLevel[world]', x=285.48, y=63.00, z=-31.00] died: Undead Knight was shot by xDogSaur
-[22Dec2024 08:46:40.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Chasity the Dirt Digger'/36823, l='ServerLevel[world]', x=303.21, y=63.00, z=-28.46] died: Chasity the Dirt Digger was shot by xDogSaur
-[22Dec2024 08:46:55.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Jim the Superior'/36903, l='ServerLevel[world]', x=309.70, y=63.00, z=-30.70] died: Jim the Superior was shot by xDogSaur
-[22Dec2024 08:47:05.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gregory'/36892, l='ServerLevel[world]', x=304.64, y=63.00, z=-25.50] died: Gregory was shot by xDogSaur
-[22Dec2024 08:47:11.100] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Major Stefan the Sticky'/36905, l='ServerLevel[world]', x=314.61, y=63.00, z=-21.50] died: Major Stefan the Sticky was shot by xDogSaur
-[22Dec2024 08:47:42.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Darkvan the Sticky'/37176, l='ServerLevel[world]', x=315.00, y=63.00, z=-28.44] died: Darkvan the Sticky was shot by xDogSaur
-[22Dec2024 08:47:56.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duke Tamara the Jerk'/37238, l='ServerLevel[world]', x=312.19, y=63.00, z=-31.10] died: Duke Tamara the Jerk was shot by xDogSaur
-[22Dec2024 08:48:05.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Mark the Light'/37287, l='ServerLevel[world]', x=314.36, y=63.00, z=-29.61] died: Mark the Light was shot by xDogSaur
-[22Dec2024 08:48:27.899] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Madam Amanda the Non-Suspicious'/37341, l='ServerLevel[world]', x=312.54, y=63.00, z=-21.53] died: Madam Amanda the Non-Suspicious was shot by xDogSaur
-[22Dec2024 08:48:38.516] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duchess Paul the Alien'/37423, l='ServerLevel[world]', x=312.75, y=63.00, z=-27.57] died: Duchess Paul the Alien was shot by xDogSaur
-[22Dec2024 08:49:00.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Kenny the President'/37494, l='ServerLevel[world]', x=313.64, y=63.00, z=-29.13] died: Kenny the President was shot by xDogSaur
-[22Dec2024 08:49:07.961] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Zach the Eagle'/37543, l='ServerLevel[world]', x=315.33, y=63.00, z=-27.53] died: Zach the Eagle was shot by xDogSaur
-[22Dec2024 08:49:16.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Morbo the Legendary'/37611, l='ServerLevel[world]', x=313.29, y=63.00, z=-28.75] died: Morbo the Legendary was shot by xDogSaur
-[22Dec2024 08:50:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 08:52:25.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:54:24.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 08:54:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
-[22Dec2024 08:57:46.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
-[22Dec2024 09:08:04.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.rogues.arms_merchant'/27041, l='ServerLevel[world]', x=270.05, y=69.00, z=29.49] died, message: 'entity.minecraft.villager.rogues.arms_merchant was slain by Zombie'
-[22Dec2024 09:18:06.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the time to 1000]
-[22Dec2024 09:33:57.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [A Pair of Giants]
-[22Dec2024 09:34:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
-[22Dec2024 09:34:06.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was processed by Crushing Wheels
-[22Dec2024 09:34:56.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 21:08:51.483] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.557] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[22Dec2024 21:08:51.564] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[22Dec2024 21:08:51.564] [main/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[22Dec2024 21:08:51.590] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[22Dec2024 21:08:51.606] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 51 recipes
+[22Dec2024 21:08:52.007] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4238 advancements
+[22Dec2024 21:08:52.025] [main/INFO] [placebo/]: Registered 26 additional recipes.
+[22Dec2024 21:08:52.132] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[22Dec2024 21:08:52.177] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[22Dec2024 21:08:52.194] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[22Dec2024 21:08:52.240] [main/INFO] [placebo/]: Registered 28 gear_sets.
+[22Dec2024 21:08:52.246] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[22Dec2024 21:08:52.250] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[22Dec2024 21:08:52.280] [main/INFO] [Apotheosis : Adventure/]: Registered 97 affixes.
+[22Dec2024 21:08:52.289] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:rare for category curios:spellbookRequired: 2; Provided: 0
+[22Dec2024 21:08:52.291] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:epic for category curios:spellbookRequired: 2; Provided: 0
+[22Dec2024 21:08:52.292] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[22Dec2024 21:08:52.293] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[22Dec2024 21:08:52.293] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category curios:spellbookRequired: 3; Provided: 0
+[22Dec2024 21:08:52.295] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[22Dec2024 21:08:52.295] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[22Dec2024 21:08:52.295] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[22Dec2024 21:08:52.296] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[22Dec2024 21:08:52.297] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[22Dec2024 21:08:52.298] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[22Dec2024 21:08:52.298] [main/ERROR] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category curios:spellbookRequired: 4; Provided: 0
+[22Dec2024 21:08:52.325] [main/INFO] [Apotheosis : Adventure/]: Registered 34 gems.
+[22Dec2024 21:08:52.341] [main/INFO] [Apotheosis : Adventure/]: Registered 100 affix_loot_entries.
+[22Dec2024 21:08:52.353] [main/INFO] [Apotheosis : Adventure/]: Registered 25 bosses.
+[22Dec2024 21:08:52.370] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[22Dec2024 21:08:52.392] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[22Dec2024 21:08:52.403] [main/INFO] [Apotheosis : Village/]: Registered 29 wanderer_trades.
+[22Dec2024 21:08:56.874] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 8 ms
+[22Dec2024 21:08:56.880] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 4 ms
+[22Dec2024 21:08:57.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Dec2024 21:08:57.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Dec2024 21:08:57.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Dec2024 21:08:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Dec2024 21:08:58.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Dec2024 21:08:58.238] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Dec2024 21:08:58.381] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Dec2024 21:08:58.382] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Dec2024 21:08:58.382] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Dec2024 21:08:58.382] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Dec2024 21:08:58.924] [Server thread/INFO] [Framework/]: Loading server configs...
+[22Dec2024 21:08:58.992] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[22Dec2024 21:08:58.994] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[22Dec2024 21:08:58.995] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[22Dec2024 21:08:59.034] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22Dec2024 21:09:00.283] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22Dec2024 21:09:00.285] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Dec2024 21:09:07.739] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Dec2024 21:09:08.578] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Dec2024 21:09:10.922] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Dec2024 21:09:15.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Dec2024 21:09:20.165] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[22Dec2024 21:09:28.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.565] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.566] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.567] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.568] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.569] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.570] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.571] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.573] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.574] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.575] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.578] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.579] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.581] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.583] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.585] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.586] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.591] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.593] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.595] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.597] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:28.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:29.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:29.934] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:30.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22Dec2024 21:09:31.327] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 15393 ms
+[22Dec2024 21:09:31.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.917s)! For help, type "help"
+[22Dec2024 21:09:31.471] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Dec2024 21:09:31.809] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 115816 bytes (in 12 string chunks with the size of 10000)
+[22Dec2024 21:10:33.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.95.40.133:40075] logged in with entity id 95 at (343.43742415017573, 63.0, -52.69999998807907)
+[22Dec2024 21:10:33.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[22Dec2024 21:10:34.026] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[22Dec2024 21:10:35.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
+[22Dec2024 21:11:00.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9571ms or 191 ticks behind
+[22Dec2024 21:12:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
