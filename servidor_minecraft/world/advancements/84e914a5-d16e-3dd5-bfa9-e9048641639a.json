@@ -8341,6 +8341,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-12-22 23:28:31 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/sweet_berry_juice": {
     "criteria": {
       "has_sweet_berries": "2024-12-22 23:17:37 +0000"

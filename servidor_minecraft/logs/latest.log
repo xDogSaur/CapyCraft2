@@ -884,3 +884,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 23:25:42.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Suit Up]
 [22Dec2024 23:26:48.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 40 [Leather] to xDogSaur]
 [22Dec2024 23:30:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the weather to rain]
+[22Dec2024 23:31:43.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the weather to clear]
+[22Dec2024 23:33:10.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Not Today, Thank You]
+[22Dec2024 23:33:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Monster Hunter]
+[22Dec2024 23:36:10.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Dec2024 23:38:51.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nucaraga[/127.64.139.94:45667] logged in with entity id 65734 at (-4.5, 75.0, 3.5)
+[22Dec2024 23:38:51.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga joined the game
+[22Dec2024 23:38:51.835] [Server thread/INFO] [Jade/]: Syncing config to Nucaraga (8f9e4dad-698b-3c00-8b47-6313d8eeb79d)
+[22Dec2024 23:39:03.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[22Dec2024 23:39:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[22Dec2024 23:39:19.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Not a Diamond]
+[22Dec2024 23:39:47.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Alex's Mobs]

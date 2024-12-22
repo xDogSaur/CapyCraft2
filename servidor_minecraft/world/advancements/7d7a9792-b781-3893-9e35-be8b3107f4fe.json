@@ -5580,9 +5580,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-22 23:31:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/stripped_fir_wood": {
     "criteria": {
       "has_log": "2024-12-22 22:59:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2024-12-22 23:31:47 +0000"
     },
     "done": true
   },
@@ -5604,6 +5616,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2024-12-22 23:28:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2024-12-22 22:00:21 +0000"
@@ -5619,6 +5637,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 22:00:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-22 23:32:03 +0000"
     },
     "done": true
   },
@@ -5670,6 +5694,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2024-12-22 23:31:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/iron_ingot_from_crushed": {
     "criteria": {
       "has_the_recipe": "2024-12-22 22:27:44 +0000"
@@ -5679,6 +5709,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-22 22:23:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smelting": {
+    "criteria": {
+      "has_dough": "2024-12-22 23:28:29 +0000"
     },
     "done": true
   },
@@ -5724,6 +5760,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-22 23:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-22 22:00:21 +0000"
@@ -5760,6 +5802,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2024-12-22 23:32:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/red_dye_from_waterlily": {
     "criteria": {
       "has_waterlily": "2024-12-22 22:25:41 +0000"
@@ -5769,6 +5817,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-22 22:00:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bread_from_smoking": {
+    "criteria": {
+      "has_dough": "2024-12-22 23:28:29 +0000"
     },
     "done": true
   },
