@@ -1752,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-22 00:11:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-21 23:13:10 +0000"
@@ -3180,6 +3186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-22 00:11:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2024-12-21 21:20:02 +0000"
@@ -3237,7 +3249,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "cold_desert": "2024-12-21 22:05:06 +0000",
+      "field": "2024-12-22 00:17:09 +0000",
       "coniferous_forest": "2024-12-21 21:31:21 +0000",
+      "forested_field": "2024-12-22 00:13:00 +0000",
       "fir_clearing": "2024-12-21 21:21:48 +0000",
       "gravel_beach": "2024-12-21 22:06:34 +0000"
     },
@@ -3474,6 +3488,12 @@
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2024-12-21 22:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-22 00:11:37 +0000"
     },
     "done": true
   },
@@ -4576,6 +4596,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 00:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-21 21:52:37 +0000"
@@ -4608,11 +4634,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-22 00:14:26 +0000",
       "minecraft:beach": "2024-12-22 00:06:54 +0000",
       "minecraft:river": "2024-12-21 21:31:12 +0000",
       "minecraft:snowy_taiga": "2024-12-21 21:18:31 +0000",
       "minecraft:cold_ocean": "2024-12-21 23:19:42 +0000",
       "minecraft:forest": "2024-12-21 21:17:50 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-22 00:14:34 +0000",
       "minecraft:plains": "2024-12-21 21:19:34 +0000"
     },
     "done": false

@@ -1265,7 +1265,8 @@
       "bread": "2024-12-21 22:09:42 +0000",
       "golden_apple": "2024-12-21 22:48:03 +0000",
       "rotten_flesh": "2024-12-21 21:38:57 +0000",
-      "glow_berries": "2024-12-21 22:49:57 +0000"
+      "glow_berries": "2024-12-21 22:49:57 +0000",
+      "carrot": "2024-12-22 00:19:00 +0000"
     },
     "done": false
   },
@@ -4108,6 +4109,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2024-12-21 22:25:39 +0000",
+      "wheat": "2024-12-22 00:18:49 +0000",
       "carrot": "2024-12-21 22:44:22 +0000"
     },
     "done": false
@@ -6044,6 +6046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-22 00:15:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-21 23:54:34 +0000"
@@ -6068,6 +6076,24 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-22 00:15:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-22 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 00:18:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-22 00:00:09 +0000"
@@ -6077,6 +6103,12 @@
   "farmersdelight:recipes/food/cooked_salmon_slice": {
     "criteria": {
       "cooked_salmon_slice": "2024-12-21 23:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-22 00:18:23 +0000"
     },
     "done": true
   },
@@ -6128,6 +6160,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-22 00:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 00:15:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-22 00:00:09 +0000"
@@ -6158,9 +6202,21 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-22 00:17:11 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/food/salmon_roll": {
     "criteria": {
       "has_salmon_slice": "2024-12-21 23:31:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-22 00:15:07 +0000"
     },
     "done": true
   },
@@ -6254,6 +6310,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-22 00:16:23 +0000"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2024-12-21 23:29:21 +0000"
@@ -6269,6 +6331,12 @@
   "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-22 00:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-22 00:18:49 +0000"
     },
     "done": true
   },
