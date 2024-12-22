@@ -681,3 +681,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 06:39:01.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Night Vision to xDogSaur]
 [22Dec2024 06:39:05.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
 [22Dec2024 06:42:45.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Epic!]
+[22Dec2024 06:49:11.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[22Dec2024 06:49:13.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 06:50:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 06:50:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[22Dec2024 06:50:31.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 06:50:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 06:52:35.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[22Dec2024 06:52:59.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: The difficulty has been set to Hard]
+[22Dec2024 06:54:23.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 320.500000, 63.500000, -49.500000]
