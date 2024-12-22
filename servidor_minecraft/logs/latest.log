@@ -81,3 +81,8 @@
 [22Dec2024 02:00:00.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [22Dec2024 02:01:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [22Dec2024 02:04:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 02:07:05.481] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[22Dec2024 02:07:05.483] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[22Dec2024 02:07:23.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Susan the Manly'/74248, l='ServerLevel[world]', x=269.50, y=66.00, z=3.53] died: Susan the Manly was shot by xDogSaur
+[22Dec2024 02:09:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Bonfire Lit]
+[22Dec2024 02:15:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
