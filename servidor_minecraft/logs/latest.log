@@ -702,3 +702,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 07:45:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
 [22Dec2024 07:54:13.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [22Dec2024 07:54:54.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 07:58:41.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Dec2024 07:59:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur got cut in half by a Mechanical Saw
+[22Dec2024 07:59:58.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
