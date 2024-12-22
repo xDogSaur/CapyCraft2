@@ -855,3 +855,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 23:09:40.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 12 [Charc-O's] to xDogSaur]
 [22Dec2024 23:09:56.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
 [22Dec2024 23:10:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:10:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
+[22Dec2024 23:10:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:11:04.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Voluntary Exile]
+[22Dec2024 23:11:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Isn't It Iron Pick]
+[22Dec2024 23:12:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was shot by Pillager
+[22Dec2024 23:12:06.378] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Dec2024 23:12:06.384] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[22Dec2024 23:12:06.387] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[22Dec2024 23:12:06.387] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[22Dec2024 23:12:06.391] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Dec2024 23:12:21.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8891, l='ServerLevel[world]', x=259.50, y=74.00, z=101.70] died, message: 'Unemployed was shot by Illusioner'
+[22Dec2024 23:12:31.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.rogues.arms_merchant'/8850, l='ServerLevel[world]', x=272.96, y=77.00, z=80.87] died, message: 'entity.minecraft.villager.rogues.arms_merchant was frozen to death by Pillager'
+[22Dec2024 23:12:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
+[22Dec2024 23:12:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:13:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Illusioner
+[22Dec2024 23:13:16.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:13:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa froze to death
+[22Dec2024 23:13:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [World of illusion]
+[22Dec2024 23:13:46.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:15:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 12 [Charc-O's] to xDogSaur]
+[22Dec2024 23:15:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [I was here, i lived, i..]
+[22Dec2024 23:17:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:18:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 23:18:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]

@@ -13452,3 +13452,182 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 23:09:56.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
 [22Dec2024 23:09:57.842] [Server thread/DEBUG] [twilightforest/]: Player Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe) respawned and received items held in storage
 [22Dec2024 23:10:04.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:10:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
+[22Dec2024 23:10:16.788] [Server thread/DEBUG] [twilightforest/]: Player Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe) respawned and received items held in storage
+[22Dec2024 23:10:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:11:04.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Voluntary Exile]
+[22Dec2024 23:11:33.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Isn't It Iron Pick]
+[22Dec2024 23:12:06.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was shot by Pillager
+[22Dec2024 23:12:06.378] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[22Dec2024 23:12:06.384] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[22Dec2024 23:12:06.387] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[22Dec2024 23:12:06.387] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[22Dec2024 23:12:06.391] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[22Dec2024 23:12:09.161] [Server thread/DEBUG] [twilightforest/]: Player Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe) respawned and received items held in storage
+[22Dec2024 23:12:21.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8891, l='ServerLevel[world]', x=259.50, y=74.00, z=101.70] died, message: 'Unemployed was shot by Illusioner'
+[22Dec2024 23:12:31.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['entity.minecraft.villager.rogues.arms_merchant'/8850, l='ServerLevel[world]', x=272.96, y=77.00, z=80.87] died, message: 'entity.minecraft.villager.rogues.arms_merchant was frozen to death by Pillager'
+[22Dec2024 23:12:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Vindicator
+[22Dec2024 23:12:47.705] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[22Dec2024 23:12:47.706] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[22Dec2024 23:12:47.707] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[22Dec2024 23:12:47.708] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[22Dec2024 23:12:47.709] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[22Dec2024 23:12:47.710] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[22Dec2024 23:12:47.711] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[22Dec2024 23:12:47.712] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[22Dec2024 23:12:47.712] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[22Dec2024 23:12:47.712] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[22Dec2024 23:12:47.712] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[22Dec2024 23:12:47.712] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[22Dec2024 23:12:47.713] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[22Dec2024 23:12:47.714] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[22Dec2024 23:12:47.714] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[22Dec2024 23:12:47.714] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[22Dec2024 23:12:47.714] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[22Dec2024 23:12:47.715] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[22Dec2024 23:12:47.715] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[22Dec2024 23:12:47.715] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[22Dec2024 23:12:47.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:12:47.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:12:48.286] [Server thread/DEBUG] [twilightforest/]: Player Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe) respawned and received items held in storage
+[22Dec2024 23:12:49.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[22Dec2024 23:13:13.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was shot by Illusioner
+[22Dec2024 23:13:14.962] [Server thread/DEBUG] [twilightforest/]: Player xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a) respawned and received items held in storage
+[22Dec2024 23:13:16.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:13:36.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa froze to death
+[22Dec2024 23:13:38.030] [Server thread/DEBUG] [twilightforest/]: Player Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe) respawned and received items held in storage
+[22Dec2024 23:13:41.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [World of illusion]
+[22Dec2024 23:13:46.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:15:04.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 12 [Charc-O's] to xDogSaur]
+[22Dec2024 23:15:24.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [I was here, i lived, i..]
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[22Dec2024 23:17:47.749] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[22Dec2024 23:17:47.750] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:tiny_bird_variant
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[22Dec2024 23:17:47.751] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[22Dec2024 23:17:47.752] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: twilightforest:dwarf_rabbit_variant
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[22Dec2024 23:17:47.753] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[22Dec2024 23:17:47.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 23:17:47.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 23:17:48.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[22Dec2024 23:18:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 23:18:53.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
