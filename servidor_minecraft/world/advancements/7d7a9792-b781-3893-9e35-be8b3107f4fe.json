@@ -1236,6 +1236,7 @@
       "woodland": "2024-12-22 21:43:54 +0000",
       "shrubland": "2024-12-22 21:42:54 +0000",
       "rocky_shrubland": "2024-12-22 21:41:33 +0000",
+      "scrubland": "2024-12-22 21:47:54 +0000",
       "bayou": "2024-12-22 21:43:55 +0000",
       "floodplain": "2024-12-22 21:45:11 +0000",
       "marsh": "2024-12-22 21:43:10 +0000",
@@ -5404,9 +5405,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-22 21:50:37 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2024-12-22 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-22 21:48:03 +0000"
     },
     "done": true
   },
@@ -5422,6 +5435,24 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-22 21:48:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2024-12-22 21:48:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/cabbage_rolls": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 21:16:50 +0000"
@@ -5434,6 +5465,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 21:52:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 21:14:32 +0000"
@@ -5443,6 +5486,12 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-22 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-22 21:48:04 +0000"
     },
     "done": true
   },
