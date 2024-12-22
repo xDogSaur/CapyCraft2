@@ -2686,7 +2686,10 @@
       "minecraft:skeleton": "2024-12-21 21:43:52 +0000",
       "minecraft:magma_cube": "2024-12-22 01:09:43 +0000",
       "minecraft:spider": "2024-12-21 21:34:59 +0000",
+      "minecraft:piglin_brute": "2024-12-22 01:20:03 +0000",
       "minecraft:creeper": "2024-12-21 23:59:48 +0000",
+      "minecraft:zombified_piglin": "2024-12-22 01:13:12 +0000",
+      "minecraft:wither_skeleton": "2024-12-22 01:16:20 +0000",
       "minecraft:cave_spider": "2024-12-21 22:42:57 +0000",
       "minecraft:piglin": "2024-12-22 00:57:18 +0000",
       "minecraft:enderman": "2024-12-21 23:58:59 +0000",
@@ -6093,6 +6096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-22 01:18:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-22 01:00:14 +0000"
@@ -6102,6 +6111,12 @@
   "create:super_glue": {
     "criteria": {
       "0": "2024-12-21 23:29:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-22 01:12:17 +0000"
     },
     "done": true
   },
@@ -6372,6 +6387,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2024-12-22 01:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-22 01:11:55 +0000"
     },
     "done": true
   },
@@ -6717,6 +6738,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-22 01:20:04 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/combat/leaf_chestplate": {
     "criteria": {
       "has_leaves": "2024-12-22 00:50:42 +0000"
@@ -6774,6 +6801,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2024-12-22 00:54:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2024-12-22 01:12:17 +0000"
     },
     "done": true
   },

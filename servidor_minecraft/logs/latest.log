@@ -63,3 +63,9 @@
 [22Dec2024 01:12:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Epic!]
 [22Dec2024 01:12:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Cover Me with Diamonds]
 [22Dec2024 01:13:12.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Timmothy the Sticky'/64583, l='ServerLevel[world]', x=152.58, y=57.00, z=19.42] died: Timmothy the Sticky was shot by xDogSaur
+[22Dec2024 01:15:46.775] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[22Dec2024 01:15:46.776] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[22Dec2024 01:20:03.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Quaprimere the Morbius'/65767, l='ServerLevel[world]', x=69.50, y=72.00, z=104.29] died: Quaprimere the Morbius was shot by xDogSaur
+[22Dec2024 01:20:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [He Wasn't So Strong]
+[22Dec2024 01:21:01.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur moved too quickly! 7.693866720380186,-0.30358878942081446,6.485651272916272
+[22Dec2024 01:24:17.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
