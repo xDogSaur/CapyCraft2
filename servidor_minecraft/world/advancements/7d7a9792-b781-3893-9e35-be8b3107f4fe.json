@@ -3412,6 +3412,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-22 06:32:28 +0000",
       "tomato": "2024-12-21 21:58:57 +0000",
       "potato": "2024-12-21 21:59:25 +0000",
       "wheat": "2024-12-21 23:57:29 +0000",
@@ -5015,6 +5016,18 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-22 06:39:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-22 06:39:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2024-12-22 06:28:17 +0000"
@@ -5036,6 +5049,12 @@
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2024-12-22 06:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-22 06:33:38 +0000"
     },
     "done": true
   },
