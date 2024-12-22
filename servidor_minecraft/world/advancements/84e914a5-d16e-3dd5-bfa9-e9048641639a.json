@@ -7220,6 +7220,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 07:26:53 +0000"
@@ -7307,6 +7313,12 @@
   "create:mechanical_crafter": {
     "criteria": {
       "0": "2024-12-22 07:53:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:44 +0000"
     },
     "done": true
   },
@@ -7568,6 +7580,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
     "criteria": {
       "has_black_dye": "2024-12-22 07:37:11 +0000"
@@ -7655,6 +7673,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_kitchen_storage_cabinet": {
     "criteria": {
       "has_yellow_dye": "2024-12-22 08:16:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/iron_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:44 +0000"
     },
     "done": true
   },
@@ -7910,6 +7934,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/copper_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/black_toilet": {
     "criteria": {
       "has_dye": "2024-12-22 07:37:11 +0000"
@@ -8129,6 +8159,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-22 06:46:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_crushed": {
+    "criteria": {
+      "has_item": "2024-12-22 10:01:42 +0000"
     },
     "done": true
   },
