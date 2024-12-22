@@ -4122,6 +4122,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "onion": "2024-12-22 07:45:03 +0000",
       "sugar_cane": "2024-12-21 22:25:39 +0000",
       "wheat": "2024-12-22 00:18:49 +0000",
       "carrot": "2024-12-21 22:44:22 +0000"
@@ -7320,6 +7321,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-22 07:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-22 07:37:11 +0000"
@@ -7836,6 +7843,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-12-22 07:46:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2024-12-22 07:31:31 +0000"
@@ -7923,6 +7936,12 @@
   "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-22 07:37:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-22 07:45:45 +0000"
     },
     "done": true
   },
