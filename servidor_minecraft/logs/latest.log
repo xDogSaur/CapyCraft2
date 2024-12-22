@@ -822,3 +822,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 22:47:13.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
 [22Dec2024 22:47:13.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
 [22Dec2024 22:48:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:50:59.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:51:34.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=63, z=-21} BlockPos{x=332, y=62, z=-20}
+[22Dec2024 22:53:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:56:28.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 5 [Diamond] to xDogSaur]
+[22Dec2024 22:56:58.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:56527] logged in with entity id 50036 at (-9.5, 73.0, 8.5)
+[22Dec2024 22:56:58.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[22Dec2024 22:56:58.709] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[22Dec2024 22:57:18.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:57:43.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Timed out
+[22Dec2024 22:57:43.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[22Dec2024 22:57:43.710] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Dec2024 22:58:23.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:41659] logged in with entity id 50904 at (-9.5, 73.0, 8.5)
+[22Dec2024 22:58:24.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[22Dec2024 22:58:24.110] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[22Dec2024 22:59:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[22Dec2024 22:59:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Stone Age]
+[22Dec2024 22:59:46.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Diamonds!]
+[22Dec2024 22:59:52.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Local Librarian]
+[22Dec2024 22:59:57.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Alex's Mobs]
