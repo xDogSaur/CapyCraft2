@@ -5430,6 +5430,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/black_dye_from_dried_kelp": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-22 23:24:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2024-12-22 21:50:37 +0000"
@@ -5541,6 +5547,12 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-22 22:56:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-22 23:24:12 +0000"
     },
     "done": true
   },
@@ -5760,6 +5772,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/wheat_seeds_from_grass": {
+    "criteria": {
+      "has_grass": "2024-12-22 23:18:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-22 22:00:21 +0000"
@@ -5799,6 +5817,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-22 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-22 23:24:12 +0000"
     },
     "done": true
   },
