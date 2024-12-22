@@ -797,3 +797,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 22:39:13.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
 [22Dec2024 22:39:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
 [22Dec2024 22:39:25.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 22:40:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[22Dec2024 22:40:13.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:40:15.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 22:41:15.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[22Dec2024 22:41:21.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:41:32.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied enchantment Unbreaking II to xDogSaur's item]
+[22Dec2024 22:44:13.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 22:46:42.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
+[22Dec2024 22:46:44.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 22:47:12.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:12.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:47:13.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=284, y=67, z=-12} BlockPos{x=283, y=67, z=-14}
+[22Dec2024 22:48:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Haste to xDogSaur]
