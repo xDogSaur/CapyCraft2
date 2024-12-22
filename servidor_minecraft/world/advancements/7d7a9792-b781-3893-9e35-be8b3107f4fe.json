@@ -1250,6 +1250,7 @@
       "cooked_porkchop": "2024-12-21 22:01:51 +0000",
       "beef": "2024-12-21 21:22:52 +0000",
       "porkchop": "2024-12-21 21:55:58 +0000",
+      "cooked_cod": "2024-12-22 07:17:25 +0000",
       "pumpkin_pie": "2024-12-21 21:41:08 +0000",
       "bread": "2024-12-21 21:36:14 +0000",
       "rotten_flesh": "2024-12-21 22:41:52 +0000",
@@ -4736,7 +4737,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2024-12-21 23:57:56 +0000"
+      "minecraft:sheep": "2024-12-21 23:57:56 +0000",
+      "minecraft:chicken": "2024-12-22 07:23:03 +0000"
     },
     "done": false
   },
@@ -5025,6 +5027,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-22 06:50:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2024-12-22 07:30:39 +0000"
     },
     "done": true
   },

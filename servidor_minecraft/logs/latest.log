@@ -696,3 +696,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 07:13:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made a no longer a server operator]
 [22Dec2024 07:13:58.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 19 [Nether Quartz] to xDogSaur]
 [22Dec2024 07:14:01.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 07:31:41.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
