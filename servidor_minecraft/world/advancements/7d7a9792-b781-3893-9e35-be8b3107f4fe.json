@@ -311,6 +311,7 @@
       "minecraft:snowy_taiga": "2024-12-21 21:18:31 +0000",
       "minecraft:cold_ocean": "2024-12-21 23:19:42 +0000",
       "minecraft:forest": "2024-12-21 21:17:50 +0000",
+      "minecraft:ocean": "2024-12-22 21:34:06 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-22 00:14:34 +0000",
       "minecraft:plains": "2024-12-21 21:19:34 +0000"
     },
@@ -3414,6 +3415,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "cabbage": "2024-12-22 06:32:28 +0000",
+      "onion": "2024-12-22 21:17:57 +0000",
       "tomato": "2024-12-21 21:58:57 +0000",
       "potato": "2024-12-21 21:59:25 +0000",
       "wheat": "2024-12-21 23:57:29 +0000",
@@ -5390,9 +5392,39 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-12-22 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage_from_leaves": {
+    "criteria": {
+      "has_cabbage_leaf": "2024-12-22 21:18:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-22 21:16:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-22 21:30:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-22 21:14:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-12-22 21:16:50 +0000"
     },
     "done": true
   },

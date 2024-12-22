@@ -647,3 +647,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [22Dec2024 21:10:35.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2876ms or 57 ticks behind
 [22Dec2024 21:11:00.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9571ms or 191 ticks behind
 [22Dec2024 21:12:35.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[22Dec2024 21:24:08.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22Dec2024 21:25:03.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[22Dec2024 21:30:11.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Mine? Mine? Mine?]
+[22Dec2024 21:31:26.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:34483] logged in with entity id 8816 at (310.19545365720353, 66.16715166750828, -31.464727717081008)
+[22Dec2024 21:31:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[22Dec2024 21:31:26.961] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[22Dec2024 21:31:30.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[22Dec2024 21:31:55.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[22Dec2024 21:32:19.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9115ms or 182 ticks behind
+[22Dec2024 21:32:41.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
+[22Dec2024 21:33:05.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8596ms or 171 ticks behind
+[22Dec2024 21:33:40.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa no longer a server operator]
+[22Dec2024 21:33:42.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 21:33:49.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Made Afarfa a server operator]
+[22Dec2024 21:33:50.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[22Dec2024 21:34:15.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9538ms or 190 ticks behind
+[22Dec2024 21:34:35.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4687ms or 93 ticks behind
+[22Dec2024 21:34:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Flawless Crystals]
+[22Dec2024 21:34:56.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6836ms or 136 ticks behind
+[22Dec2024 21:35:17.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5110ms or 102 ticks behind
+[22Dec2024 21:36:23.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[22Dec2024 21:36:44.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6196ms or 123 ticks behind
+[22Dec2024 21:37:04.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
