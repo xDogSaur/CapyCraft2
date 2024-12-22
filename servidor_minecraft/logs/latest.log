@@ -53,3 +53,13 @@
 [22Dec2024 01:01:47.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 140.500000, 77.500000, 124.500000]
 [22Dec2024 01:03:28.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Who is Cutting Onions?]
 [22Dec2024 01:04:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 01:06:06.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[22Dec2024 01:06:31.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Instant Health to xDogSaur]
+[22Dec2024 01:06:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Instant Health to xDogSaur]
+[22Dec2024 01:09:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Blaze
+[22Dec2024 01:10:10.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Applied effect Instant Health to xDogSaur]
+[22Dec2024 01:10:16.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 71.500000, 73.500000, 120.500000]
+[22Dec2024 01:11:09.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[22Dec2024 01:12:17.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Epic!]
+[22Dec2024 01:12:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Cover Me with Diamonds]
+[22Dec2024 01:13:12.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Timmothy the Sticky'/64583, l='ServerLevel[world]', x=152.58, y=57.00, z=19.42] died: Timmothy the Sticky was shot by xDogSaur
