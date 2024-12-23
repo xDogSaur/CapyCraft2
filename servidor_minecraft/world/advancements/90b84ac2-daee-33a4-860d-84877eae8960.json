@@ -478,6 +478,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "fish_stew": "2024-12-23 01:35:36 +0000",
       "pasta_with_mutton_chop": "2024-12-23 00:43:48 +0000"
     },
     "done": false
@@ -509,6 +510,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
     },
     "done": true
   },
@@ -596,6 +603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
@@ -635,6 +648,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -752,6 +771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
@@ -761,6 +786,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -779,6 +810,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-23 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -836,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-23 00:55:29 +0000"
@@ -863,6 +906,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 01:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
     },
     "done": true
   },
@@ -992,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-23 01:19:47 +0000"
@@ -1037,6 +1092,12 @@
   "toughasnails:recipes/tools/empty_diamond_canteen": {
     "criteria": {
       "has_diamond": "2024-12-23 01:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
     },
     "done": true
   },
@@ -1118,6 +1179,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_stove": {
     "criteria": {
       "has_redstone": "2024-12-23 00:48:37 +0000"
@@ -1157,6 +1230,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-23 01:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
     },
     "done": true
   },
@@ -1202,6 +1281,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-23 01:35:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_cooler": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
@@ -1211,6 +1296,12 @@
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2024-12-23 00:55:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -1367,6 +1458,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-23 01:03:08 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
     },
     "done": true
   },
@@ -1568,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/shaft": {
     "criteria": {
       "has_item": "2024-12-23 00:55:05 +0000"
@@ -1646,6 +1749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-23 00:55:05 +0000"
@@ -1691,6 +1800,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -1802,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-23 01:16:10 +0000"
@@ -1829,6 +1950,12 @@
   "create:recipes/misc/crafting/kinetics/radial_chassis": {
     "criteria": {
       "has_item": "2024-12-23 00:55:05 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/gold_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -2114,6 +2241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 01:05:46 +0000"
@@ -2129,6 +2262,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/tools/empty_leather_canteen": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
     },
     "done": true
   },
@@ -2318,6 +2457,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
@@ -2366,6 +2511,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-23 01:35:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_cooler": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
@@ -2381,6 +2532,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_blue_cooler": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -2447,6 +2604,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
     },
     "done": true
   },
@@ -3014,6 +3177,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/empty_gold_canteen": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
@@ -3182,6 +3351,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-23 01:33:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
@@ -3248,6 +3423,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-23 01:35:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-23 01:05:46 +0000"
@@ -3308,6 +3489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 00:55:17 +0000"
@@ -3362,6 +3549,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
@@ -3371,6 +3564,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_axe": "2024-12-23 00:55:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-23 01:35:13 +0000"
     },
     "done": true
   },
@@ -3419,6 +3618,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2024-12-23 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
     },
     "done": true
   },
@@ -3518,6 +3723,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-23 01:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-23 01:16:10 +0000"
@@ -3584,9 +3795,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 01:34:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-23 00:48:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-23 01:35:00 +0000"
     },
     "done": true
   },
