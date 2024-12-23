@@ -1349,6 +1349,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-23 01:27:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 01:18:57 +0000"
@@ -1430,6 +1436,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-22 23:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-23 01:30:37 +0000"
     },
     "done": true
   },
@@ -1751,6 +1763,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-23 01:30:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-23 01:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-23 01:18:57 +0000"
@@ -2021,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-23 01:31:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 23:41:23 +0000"
@@ -2252,6 +2282,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_lamp": {
     "criteria": {
       "has_white_wool": "2024-12-22 23:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-23 01:31:38 +0000"
     },
     "done": true
   },
@@ -2735,6 +2771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-23 01:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-22 23:53:06 +0000"
@@ -3026,6 +3068,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "coniferous_forest": "2024-12-22 23:40:32 +0000",
+      "snowy_coniferous_forest": "2024-12-23 01:28:11 +0000",
       "gravel_beach": "2024-12-22 23:39:04 +0000"
     },
     "done": false
@@ -3872,6 +3915,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "fish_stew": "2024-12-23 01:27:43 +0000",
       "pasta_with_mutton_chop": "2024-12-22 23:49:44 +0000"
     },
     "done": false
@@ -4071,6 +4115,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-22 23:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-23 01:22:29 +0000"
     },
     "done": true
   },

@@ -321,3 +321,54 @@
 [23Dec2024 01:22:10.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:43179] logged in with entity id 106116 at (592.0535327934197, -8.0, 180.27899894428265)
 [23Dec2024 01:22:10.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
 [23Dec2024 01:22:10.745] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[23Dec2024 01:22:55.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Dec2024 01:23:21.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[23Dec2024 01:23:29.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 moved too quickly! 5.817493542053171,-8.434640552716559,-0.2382548276530656
+[23Dec2024 01:23:38.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 01:23:57.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 01:24:15.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[23Dec2024 01:24:33.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
+[23Dec2024 01:24:35.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[23Dec2024 01:24:39.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga froze to death
+[23Dec2024 01:24:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Nucaraga to Afarfa
+[23Dec2024 01:24:42.239] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3314069e[id=<null>,name=xDogSaur,properties={},legacy=false] (/127.40.116.104:49321) lost connection: Disconnected
+[23Dec2024 01:24:50.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Dec2024 01:24:55.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga tried to swim in lava
+[23Dec2024 01:24:56.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:50747] logged in with entity id 107752 at (299.00419369966903, 64.00133597911214, -45.189811473246856)
+[23Dec2024 01:24:56.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[23Dec2024 01:24:56.491] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[23Dec2024 01:25:00.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Nucaraga to Afarfa
+[23Dec2024 01:25:12.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6433ms or 128 ticks behind
+[23Dec2024 01:25:30.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[23Dec2024 01:25:48.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
+[23Dec2024 01:26:15.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11839ms or 236 ticks behind
+[23Dec2024 01:26:36.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6703ms or 134 ticks behind
+[23Dec2024 01:27:02.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10933ms or 218 ticks behind
+[23Dec2024 01:27:15.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[23Dec2024 01:27:15.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[23Dec2024 01:27:24.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6404ms or 128 ticks behind
+[23Dec2024 01:27:28.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:59985] logged in with entity id 109227 at (751.6999999880791, -26.0, 221.19345101689666)
+[23Dec2024 01:27:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[23Dec2024 01:27:29.001] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
+[23Dec2024 01:27:47.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8566ms or 171 ticks behind
+[23Dec2024 01:28:10.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7731ms or 154 ticks behind
+[23Dec2024 01:28:31.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6584ms or 131 ticks behind
+[23Dec2024 01:28:54.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7810ms or 156 ticks behind
+[23Dec2024 01:29:14.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4744ms or 94 ticks behind
+[23Dec2024 01:29:40.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10906ms or 218 ticks behind
+[23Dec2024 01:30:14.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19464ms or 389 ticks behind
+[23Dec2024 01:30:35.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Luzbel1t0]
+[23Dec2024 01:30:37.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [The Parrots and the Bats]
+[23Dec2024 01:30:41.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12023ms or 240 ticks behind
+[23Dec2024 01:30:49.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to aw]
+[23Dec2024 01:30:52.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[23Dec2024 01:31:01.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4819ms or 96 ticks behind
+[23Dec2024 01:31:20.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4534ms or 90 ticks behind
+[23Dec2024 01:31:43.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7118ms or 142 ticks behind
+[23Dec2024 01:32:00.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2501ms or 50 ticks behind
+[23Dec2024 01:32:11.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Cave Centipede
+[23Dec2024 01:32:18.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Choose your path]
+[23Dec2024 01:32:22.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Choose your path]
+[23Dec2024 01:32:22.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[23Dec2024 01:32:42.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5243ms or 104 ticks behind
+[23Dec2024 01:33:02.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4253ms or 85 ticks behind
