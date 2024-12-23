@@ -2858,6 +2858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 05:09:21 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map": {
     "criteria": {
       "has_item": "2024-12-23 04:27:14 +0000"
@@ -5397,6 +5403,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 23:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-23 05:09:21 +0000"
     },
     "done": true
   },
