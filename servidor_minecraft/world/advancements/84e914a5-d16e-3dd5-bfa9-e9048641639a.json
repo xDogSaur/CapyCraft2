@@ -8646,6 +8646,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-23 06:59:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-23 03:51:12 +0000"
@@ -8738,6 +8744,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_compacting_upgrade": {
+    "criteria": {
+      "has_compacting_upgrade": "2024-12-23 06:59:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-23 04:07:29 +0000"
@@ -8795,6 +8807,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2024-12-23 06:23:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-23 06:58:59 +0000"
     },
     "done": true
   },
@@ -9220,6 +9238,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_void_upgrade": {
+    "criteria": {
+      "has_void_upgrade": "2024-12-23 06:59:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-23 06:23:48 +0000"
@@ -9406,6 +9430,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2024-12-23 06:59:04 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/seashelf": {
     "criteria": {
       "seashelf": "2024-12-23 06:26:54 +0000"
@@ -9427,6 +9457,12 @@
   "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-23 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2024-12-23 06:43:01 +0000"
     },
     "done": true
   },
@@ -9725,6 +9761,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/strange_fish_finder": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-23 06:43:57 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
@@ -9824,6 +9866,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-12-23 04:17:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2024-12-23 06:59:17 +0000"
     },
     "done": true
   },

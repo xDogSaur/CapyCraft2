@@ -1121,3 +1121,9 @@
 [23Dec2024 06:32:33.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
 [23Dec2024 06:36:30.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [23Dec2024 06:36:45.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set the weather to clear]
+[23Dec2024 06:43:01.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Break On Through...]
+[23Dec2024 06:43:57.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [The Quest for the Best]
+[23Dec2024 06:47:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 06:47:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 06:50:03.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 06:50:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
