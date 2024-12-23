@@ -6974,6 +6974,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2024-12-23 05:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2024-12-23 04:32:58 +0000"
@@ -6983,6 +6989,12 @@
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2024-12-23 04:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:20:24 +0000"
     },
     "done": true
   },
@@ -7027,6 +7039,12 @@
       "has_planks": "2024-12-23 04:32:58 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-23 05:21:44 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
@@ -7101,9 +7119,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 05:20:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2024-12-23 05:22:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
     "criteria": {
       "has_birch_planks": "2024-12-23 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:20:24 +0000"
     },
     "done": true
   },
@@ -7235,9 +7271,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-23 04:22:49 +0000"
+      "previous_progression": "2024-12-23 04:22:49 +0000",
+      "yeti": "2024-12-23 05:21:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
@@ -7278,6 +7315,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-23 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:20:24 +0000"
     },
     "done": true
   },

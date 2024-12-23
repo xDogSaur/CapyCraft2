@@ -977,3 +977,27 @@
 [23Dec2024 05:19:50.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
 [23Dec2024 05:19:53.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
 [23Dec2024 05:20:15.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[23Dec2024 05:20:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 05:20:53.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:20:58.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 05:21:12.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from Afarfa]
+[23Dec2024 05:21:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Alpha Fur]
+[23Dec2024 05:21:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Kobold
+[23Dec2024 05:22:03.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[23Dec2024 05:22:11.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:gui.xaero-deathpoint:D:2328:41:-1748:0:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[23Dec2024 05:22:17.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 2328.500000, 41.500000, -1747.500000]
+[23Dec2024 05:22:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:22:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 05:24:15.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 05:24:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:24:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 05:27:36.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga burned to death
+[23Dec2024 05:27:41.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[23Dec2024 05:27:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:gui.xaero-deathpoint:D:2331:136:-1738:0:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
+[23Dec2024 05:27:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Clear Skies]
+[23Dec2024 05:27:59.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2195ms or 43 ticks behind
+[23Dec2024 05:28:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Clear Skies]
+[23Dec2024 05:28:12.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 05:29:52.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga froze to death
+[23Dec2024 05:30:02.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 05:30:03.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
