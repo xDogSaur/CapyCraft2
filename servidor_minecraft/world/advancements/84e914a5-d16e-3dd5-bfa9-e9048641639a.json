@@ -8467,6 +8467,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2024-12-23 00:06:30 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2024-12-23 00:11:48 +0000"
@@ -8476,12 +8482,6 @@
   "create:speed_controller": {
     "criteria": {
       "0": "2024-12-23 00:30:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
-    "criteria": {
-      "has_tool_swapper_upgrade": "2024-12-23 00:06:30 +0000"
     },
     "done": true
   },
