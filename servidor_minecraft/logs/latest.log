@@ -1127,3 +1127,4 @@
 [23Dec2024 06:47:21.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
 [23Dec2024 06:50:03.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [23Dec2024 06:50:07.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 07:39:29.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/285193, l='ServerLevel[world]', x=421.31, y=114.25, z=20.23] died: Honeyed Archer burned to death
