@@ -3442,6 +3442,7 @@
       "cabbage": "2024-12-22 06:32:28 +0000",
       "onion": "2024-12-22 21:17:57 +0000",
       "tomato": "2024-12-21 21:58:57 +0000",
+      "rice": "2024-12-23 03:20:30 +0000",
       "potato": "2024-12-21 21:59:25 +0000",
       "red_mushroom": "2024-12-23 01:46:34 +0000",
       "wheat": "2024-12-21 23:57:29 +0000",
@@ -6457,9 +6458,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-23 03:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-23 02:59:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-23 03:05:24 +0000"
     },
     "done": true
   },
@@ -6472,6 +6485,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-23 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-12-23 03:19:33 +0000"
     },
     "done": true
   },
@@ -6556,6 +6575,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-23 02:34:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-12-23 03:20:30 +0000"
     },
     "done": true
   },
@@ -6679,6 +6704,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-23 03:09:54 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2024-12-23 02:47:48 +0000"
@@ -6712,6 +6743,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-23 02:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-23 03:09:54 +0000"
     },
     "done": true
   },

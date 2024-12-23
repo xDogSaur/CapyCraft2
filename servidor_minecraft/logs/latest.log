@@ -676,3 +676,56 @@
 [23Dec2024 03:05:30.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Enddarsh the Toasty'/156669, l='ServerLevel[world]', x=133.58, y=83.00, z=36.68] died: Enddarsh the Toasty was shot by xDogSaur
 [23Dec2024 03:05:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
 [23Dec2024 03:06:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 03:06:36.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Maddie the Mean'/157174, l='ServerLevel[world]', x=171.36, y=71.00, z=69.50] died: Maddie the Mean was blown up by xDogSaur
+[23Dec2024 03:08:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Take Aim]
+[23Dec2024 03:09:10.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur was slain by Wither Skeleton
+[23Dec2024 03:09:11.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Wither Skeleton
+[23Dec2024 03:09:11.794] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 03:09:11.794] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Dec2024 03:09:11.794] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 03:09:11.794] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 03:09:11.794] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 03:09:14.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[23Dec2024 03:09:16.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[23Dec2024 03:09:25.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 03:09:31.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was slain by Wither Skeleton
+[23Dec2024 03:09:31.354] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 03:09:31.354] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[23Dec2024 03:09:31.354] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 03:09:31.354] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 03:09:31.355] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 03:09:33.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[23Dec2024 03:09:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> cuando puedas tepea
+[23Dec2024 03:09:45.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 03:09:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 03:09:50.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
+[23Dec2024 03:09:54.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 03:13:18.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was fireballed by Blaze
+[23Dec2024 03:13:30.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[23Dec2024 03:13:47.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[23Dec2024 03:14:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by Skeleton
+[23Dec2024 03:14:52.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3131ms or 62 ticks behind
+[23Dec2024 03:15:20.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13369ms or 267 ticks behind
+[23Dec2024 03:15:37.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2364ms or 47 ticks behind
+[23Dec2024 03:15:58.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5912ms or 118 ticks behind
+[23Dec2024 03:16:14.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
+[23Dec2024 03:16:19.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5921ms or 118 ticks behind
+[23Dec2024 03:16:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 03:16:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 03:17:47.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 03:18:03.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Into Fire]
+[23Dec2024 03:18:05.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 03:18:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 35 experience levels to xDogSaur]
+[23Dec2024 03:18:09.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Spooky Scary Skeleton]
+[23Dec2024 03:21:13.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Local Librarian]
+[23Dec2024 03:21:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Luzbel1t0
+[23Dec2024 03:21:58.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 35 experience levels to xDogSaur]
+[23Dec2024 03:23:38.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has reached the goal [Choose your path]
+[23Dec2024 03:23:47.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luzbel1t0 lost connection: Disconnected
+[23Dec2024 03:23:47.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 left the game
+[23Dec2024 03:23:47.947] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 03:24:24.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 36 [Gunpowder] to xDogSaur]
+[23Dec2024 03:25:07.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by xDogSaur
+[23Dec2024 03:25:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 43 [Block of Copper] to xDogSaur]
+[23Dec2024 03:26:15.380] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/159779, l='ServerLevel[world]', x=286.70, y=78.00, z=95.50] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 03:27:02.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga froze to death
