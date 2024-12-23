@@ -646,3 +646,33 @@
 [23Dec2024 02:55:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [We Need to Go Deeper]
 [23Dec2024 02:55:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [We Need to Go Deeper]
 [23Dec2024 02:55:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [We Need to Go Deeper]
+[23Dec2024 02:57:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 02:57:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [A Terrible Fortress]
+[23Dec2024 02:57:34.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 02:57:34.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [A Terrible Fortress]
+[23Dec2024 02:57:36.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 02:57:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [A Terrible Fortress]
+[23Dec2024 02:58:56.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Into Fire]
+[23Dec2024 02:59:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Take Aim]
+[23Dec2024 02:59:31.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Nightmare Fuel]
+[23Dec2024 02:59:40.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Into Fire]
+[23Dec2024 03:00:23.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Danny the Cheese Sprayer'/154742, l='ServerLevel[world]', x=132.53, y=91.00, z=41.70] died: Danny the Cheese Sprayer was shot by xDogSaur
+[23Dec2024 03:00:49.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 32 [Ice Cream] to xDogSaur]
+[23Dec2024 03:01:11.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 withered away
+[23Dec2024 03:01:17.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[23Dec2024 03:01:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Lava Eater
+[23Dec2024 03:01:45.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [Fiery Beast]
+[23Dec2024 03:01:45.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13423ms or 268 ticks behind
+[23Dec2024 03:01:51.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 03:02:13.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 03:03:23.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Lava Eater]
+[23Dec2024 03:05:21.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Enddarsh the Toasty
+[23Dec2024 03:05:21.989] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 03:05:21.989] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 14 is dual wielding: false
+[23Dec2024 03:05:21.990] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 03:05:21.990] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 03:05:21.990] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Dec2024 03:05:28.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3051ms or 61 ticks behind
+[23Dec2024 03:05:30.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Enddarsh the Toasty'/156669, l='ServerLevel[world]', x=133.58, y=83.00, z=36.68] died: Enddarsh the Toasty was shot by xDogSaur
+[23Dec2024 03:05:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 03:06:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
