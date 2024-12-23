@@ -771,3 +771,25 @@
 [23Dec2024 03:57:02.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
 [23Dec2024 03:57:05.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
 [23Dec2024 03:57:28.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 03:58:07.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Time To Even The Scales]
+[23Dec2024 03:58:07.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has reached the goal [Time To Even The Scales]
+[23Dec2024 03:59:10.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Time To Even The Scales]
+[23Dec2024 03:59:18.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 03:59:41.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 04:05:45.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:05:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 04:07:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by Skeleton
+[23Dec2024 04:07:27.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7468ms or 149 ticks behind
+[23Dec2024 04:07:28.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Disconnected
+[23Dec2024 04:07:28.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[23Dec2024 04:07:42.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.95.40.133:60171] logged in with entity id 202249 at (2861.342241136503, 27.650445225858675, -807.3774916757725)
+[23Dec2024 04:07:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[23Dec2024 04:07:42.587] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
+[23Dec2024 04:07:46.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 04:07:50.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa was kicked for floating too long!
+[23Dec2024 04:07:50.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Afarfa lost connection: Flying is not enabled on this server
+[23Dec2024 04:07:50.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa left the game
+[23Dec2024 04:07:54.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 04:08:05.992] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Afarfa[/127.95.40.133:47025] logged in with entity id 202347 at (2861.342241136503, 27.650445225858675, -807.3774916757725)
+[23Dec2024 04:08:06.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
+[23Dec2024 04:08:06.167] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
