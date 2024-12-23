@@ -304,3 +304,9 @@
 [23Dec2024 00:59:16.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Dec2024 00:59:16.403] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [23Dec2024 00:59:16.516] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 01:02:32.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Dec2024 01:02:34.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Isn't It Iron Pick]
+[23Dec2024 01:06:56.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Flawless Crystals]
+[23Dec2024 01:07:14.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Dec2024 01:07:33.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Dec2024 01:09:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Self-Driving Cart]
