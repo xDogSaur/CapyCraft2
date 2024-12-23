@@ -908,3 +908,31 @@
 [23Dec2024 04:55:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> xaero-waypoint:gui.xaero-deathpoint:D:2309:7:-1453:0:false:0:Internal-dim%twilightforest$twilight-forest-waypoints
 [23Dec2024 04:57:08.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga froze to death
 [23Dec2024 04:57:32.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[23Dec2024 04:59:43.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[23Dec2024 05:00:00.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[23Dec2024 05:02:13.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to 2309.500000, 7.500000, -1452.500000]
+[23Dec2024 05:02:18.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 05:02:25.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 05:02:56.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:03:01.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 05:03:12.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 05:03:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has reached the goal [Alpha Fur]
+[23Dec2024 05:03:53.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Alpha Fur]
+[23Dec2024 05:04:13.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[23Dec2024 05:04:30.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 05:04:36.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 05:04:40.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:04:57.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Lava Bucket] to xDogSaur]
+[23Dec2024 05:04:59.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Lava Bucket] to xDogSaur]
+[23Dec2024 05:05:34.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Hot Stuff]
+[23Dec2024 05:05:56.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 05:06:16.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Gave 1 [Lava Bucket] to xDogSaur]
+[23Dec2024 05:07:53.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[23Dec2024 05:08:07.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 05:08:30.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from Afarfa]
+[23Dec2024 05:08:47.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was shot by xDogSaur
+[23Dec2024 05:08:55.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
+[23Dec2024 05:08:55.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from Afarfa]
+[23Dec2024 05:09:01.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 05:09:46.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from Afarfa]
+[23Dec2024 05:09:49.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Removed every effect from Afarfa]

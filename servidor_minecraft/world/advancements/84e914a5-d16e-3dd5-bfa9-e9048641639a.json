@@ -8550,6 +8550,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_ingredient": "2024-12-23 05:05:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "twilight_oak_log": "2024-12-23 03:43:14 +0000"
@@ -8580,6 +8592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-23 04:07:29 +0000"
@@ -8595,6 +8613,12 @@
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2024-12-23 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:45 +0000"
     },
     "done": true
   },
@@ -8652,6 +8676,12 @@
       "has_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-12-23 05:03:33 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
@@ -8865,6 +8895,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2024-12-23 05:05:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2024-12-23 04:05:59 +0000"
@@ -8901,6 +8937,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:06:37 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_naga": {
     "criteria": {
       "naga": "2024-12-23 03:58:07 +0000"
@@ -8910,6 +8952,18 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-23 04:02:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-23 05:02:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:45 +0000"
     },
     "done": true
   },
@@ -9189,9 +9243,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-12-23 05:05:54 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2024-12-23 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-23 05:05:54 +0000"
     },
     "done": true
   },
@@ -9216,6 +9282,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:45 +0000"
     },
     "done": true
   },
@@ -9317,9 +9389,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-12-23 04:22:49 +0000"
+      "previous_progression": "2024-12-23 04:22:49 +0000",
+      "yeti": "2024-12-23 05:03:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
@@ -9330,6 +9403,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
       "has_birch_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:45 +0000"
     },
     "done": true
   },
@@ -9420,6 +9499,12 @@
   "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
       "has_food": "2024-12-23 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-23 05:06:37 +0000"
     },
     "done": true
   },

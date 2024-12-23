@@ -3335,6 +3335,7 @@
       "minecraft:vindicator": "2024-12-22 23:09:53 +0000",
       "minecraft:magma_cube": "2024-12-23 02:59:01 +0000",
       "minecraft:spider": "2024-12-21 22:41:01 +0000",
+      "minecraft:creeper": "2024-12-23 04:59:01 +0000",
       "minecraft:witch": "2024-12-22 23:11:16 +0000",
       "minecraft:cave_spider": "2024-12-23 04:44:43 +0000",
       "minecraft:zombie": "2024-12-21 22:27:05 +0000",
@@ -6932,6 +6933,7 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "raw_venison": "2024-12-23 04:03:15 +0000",
+      "maze_wafer": "2024-12-23 05:05:27 +0000",
       "cooked_venison": "2024-12-23 04:03:55 +0000"
     },
     "done": false
@@ -7057,6 +7059,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_moss": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-23 05:05:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/lich_banner_pattern": {
     "criteria": {
       "has_trophy": "2024-12-23 04:23:40 +0000"
@@ -7093,6 +7107,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/vanilla_to_tf_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:18 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
       "has_trophy": "2024-12-23 04:44:22 +0000"
@@ -7108,6 +7128,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_desk": {
     "criteria": {
       "has_birch_planks": "2024-12-23 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:18 +0000"
     },
     "done": true
   },
@@ -7204,6 +7230,12 @@
   "twilightforest:recipes/tools/charm_of_keeping_2": {
     "criteria": {
       "has_item": "2024-12-23 04:35:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2024-12-23 05:02:18 +0000"
     },
     "done": true
   },
