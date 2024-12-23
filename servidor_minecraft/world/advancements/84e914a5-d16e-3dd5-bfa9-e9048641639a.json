@@ -2707,6 +2707,7 @@
       "minecraft:piglin": "2024-12-22 00:57:18 +0000",
       "minecraft:enderman": "2024-12-21 23:58:59 +0000",
       "minecraft:stray": "2024-12-22 21:50:38 +0000",
+      "minecraft:silverfish": "2024-12-23 04:08:00 +0000",
       "minecraft:zombie": "2024-12-21 21:37:02 +0000",
       "minecraft:drowned": "2024-12-21 22:10:54 +0000",
       "minecraft:zombie_villager": "2024-12-22 07:27:51 +0000"
@@ -8500,6 +8501,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
@@ -8509,6 +8522,24 @@
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-23 04:06:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -8530,9 +8561,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2024-12-23 03:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -8590,9 +8633,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -8614,6 +8669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-23 04:06:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
@@ -8623,6 +8684,12 @@
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -8656,9 +8723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_lava_eater": {
     "criteria": {
       "ambusher": "2024-12-23 03:01:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-23 04:10:00 +0000"
     },
     "done": true
   },
@@ -8679,6 +8758,12 @@
       "has_mossy_cobblestone": "2024-12-23 04:02:32 +0000"
     },
     "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_sword": "2024-12-23 04:06:11 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
@@ -8788,6 +8873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-23 04:06:56 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
@@ -8833,6 +8924,12 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
     "criteria": {
       "has_tree_bark": "2024-12-23 03:35:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -8938,6 +9035,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/smelted_venison": {
     "criteria": {
       "has_food": "2024-12-23 03:46:22 +0000"
@@ -9040,6 +9143,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
@@ -9100,9 +9215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2024-12-23 03:58:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
@@ -9133,6 +9260,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-23 04:07:29 +0000"
     },
     "done": true
   },
