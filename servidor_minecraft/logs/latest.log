@@ -623,3 +623,26 @@
 [23Dec2024 02:44:32.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Sinister Intentions]
 [23Dec2024 02:44:34.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3823ms or 76 ticks behind
 [23Dec2024 02:44:57.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 02:45:59.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[23Dec2024 02:46:07.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Nucaraga
+[23Dec2024 02:46:08.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Who is Cutting Onions?]
+[23Dec2024 02:46:12.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 02:46:16.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
+[23Dec2024 02:46:37.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Luzbel1t0
+[23Dec2024 02:47:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [He Wasn't So Strong]
+[23Dec2024 02:48:01.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Cover Me with Diamonds]
+[23Dec2024 02:51:50.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was blown up by xDogSaur
+[23Dec2024 02:51:50.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was blown up by xDogSaur
+[23Dec2024 02:52:02.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [Tools of the Trade]
+[23Dec2024 02:52:04.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[23Dec2024 02:52:11.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 02:52:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was shot by xDogSaur
+[23Dec2024 02:52:18.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to xDogSaur]
+[23Dec2024 02:52:24.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4754ms or 95 ticks behind
+[23Dec2024 02:52:26.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [Epic!]
+[23Dec2024 02:53:23.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 02:54:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 02:54:59.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8910, l='ServerLevel[world]', x=294.43, y=79.02, z=74.18] died, message: 'Farmer burned to death'
+[23Dec2024 02:55:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [We Need to Go Deeper]
+[23Dec2024 02:55:07.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has made the advancement [We Need to Go Deeper]
+[23Dec2024 02:55:09.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 has made the advancement [We Need to Go Deeper]

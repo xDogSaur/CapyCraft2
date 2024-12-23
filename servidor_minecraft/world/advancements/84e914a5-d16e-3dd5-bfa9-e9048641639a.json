@@ -8540,6 +8540,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_rogue": {
+    "criteria": {
+      "bind": "2024-12-23 02:44:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
