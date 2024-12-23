@@ -3461,6 +3461,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-22 23:33:41 +0000",
       "minecraft:spider": "2024-12-22 23:34:53 +0000",
+      "minecraft:creeper": "2024-12-23 01:44:43 +0000",
       "minecraft:slime": "2024-12-23 00:44:41 +0000",
       "minecraft:cave_spider": "2024-12-23 00:32:35 +0000",
       "minecraft:zombie": "2024-12-22 23:35:22 +0000"
@@ -4022,6 +4023,12 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-23 01:24:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-12-23 01:45:17 +0000"
     },
     "done": true
   },
