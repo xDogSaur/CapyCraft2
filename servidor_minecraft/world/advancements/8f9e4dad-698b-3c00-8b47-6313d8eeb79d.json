@@ -311,6 +311,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2024-12-23 02:08:33 +0000",
       "minecraft:river": "2024-12-22 23:42:45 +0000",
       "minecraft:cold_ocean": "2024-12-23 00:14:08 +0000",
       "minecraft:forest": "2024-12-21 22:37:50 +0000",
@@ -487,6 +488,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
       "has_gunpowder": "2024-12-23 00:00:26 +0000"
@@ -610,6 +617,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-23 00:03:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -898,6 +911,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-23 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -1361,6 +1380,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-23 00:03:07 +0000"
@@ -1370,6 +1395,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-23 01:18:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -1388,6 +1419,18 @@
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-23 01:42:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -1631,6 +1674,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-23 00:41:21 +0000"
@@ -1778,6 +1827,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 01:19:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -2477,6 +2532,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-22 23:45:34 +0000"
@@ -2765,6 +2826,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-22 23:41:23 +0000"
@@ -2774,6 +2841,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-22 23:46:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -2951,6 +3024,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
       "has_redstone": "2024-12-23 00:16:24 +0000"
@@ -2960,6 +3045,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-22 23:41:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -3014,6 +3105,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-23 01:19:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -3347,6 +3444,7 @@
       "coniferous_forest": "2024-12-22 23:40:32 +0000",
       "fir_clearing": "2024-12-23 01:52:38 +0000",
       "snowy_coniferous_forest": "2024-12-23 01:28:11 +0000",
+      "snowy_fir_clearing": "2024-12-23 02:06:07 +0000",
       "gravel_beach": "2024-12-22 23:39:04 +0000"
     },
     "done": false
@@ -3954,6 +4052,12 @@
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 01:17:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },
@@ -4594,6 +4698,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-23 00:41:21 +0000"
@@ -4729,6 +4839,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2024-12-22 23:47:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2024-12-23 02:08:38 +0000"
     },
     "done": true
   },

@@ -6411,5 +6411,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-12-23 02:05:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-23 02:05:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-23 02:05:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
