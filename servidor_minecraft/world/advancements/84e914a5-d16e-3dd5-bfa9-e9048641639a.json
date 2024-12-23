@@ -1273,6 +1273,7 @@
       "rotten_flesh": "2024-12-21 21:38:57 +0000",
       "glow_berries": "2024-12-21 22:49:57 +0000",
       "golden_carrot": "2024-12-23 02:29:25 +0000",
+      "enchanted_golden_apple": "2024-12-23 04:17:58 +0000",
       "cod": "2024-12-22 00:43:35 +0000",
       "carrot": "2024-12-22 00:19:00 +0000"
     },
@@ -8749,9 +8750,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2024-12-23 04:22:49 +0000",
       "kill_naga": "2024-12-23 03:58:07 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
@@ -8840,6 +8842,12 @@
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2024-12-23 04:23:05 +0000"
     },
     "done": true
   },
@@ -8969,6 +8977,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-12-23 04:22:49 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
@@ -8992,6 +9006,12 @@
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2024-12-23 04:22:49 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
@@ -9221,6 +9241,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-12-23 04:22:49 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2024-12-23 03:58:43 +0000"
@@ -9314,6 +9340,12 @@
   "twilightforest:recipes/food/food/smoked_venison": {
     "criteria": {
       "has_food": "2024-12-23 03:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-23 04:17:30 +0000"
     },
     "done": true
   },
