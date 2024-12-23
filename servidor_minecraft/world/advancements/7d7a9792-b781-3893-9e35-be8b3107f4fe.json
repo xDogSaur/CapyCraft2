@@ -6934,6 +6934,7 @@
     "criteria": {
       "raw_venison": "2024-12-23 04:03:15 +0000",
       "maze_wafer": "2024-12-23 05:05:27 +0000",
+      "torchberries": "2024-12-23 05:45:52 +0000",
       "cooked_venison": "2024-12-23 04:03:55 +0000"
     },
     "done": false
@@ -6961,6 +6962,12 @@
       "has_planks": "2024-12-23 04:32:58 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2024-12-23 05:28:06 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
     "criteria": {
@@ -7042,9 +7049,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2024-12-23 05:21:44 +0000"
+      "previous_progression": "2024-12-23 05:21:44 +0000",
+      "trophy": "2024-12-23 05:28:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
@@ -7058,6 +7066,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2024-12-23 05:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-23 04:32:58 +0000"
@@ -7067,6 +7081,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-23 04:25:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2024-12-23 05:37:23 +0000"
     },
     "done": true
   },
