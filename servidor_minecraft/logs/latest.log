@@ -79,3 +79,38 @@
 [23Dec2024 00:40:39.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
 [23Dec2024 00:40:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
 [23Dec2024 00:40:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Stone Age]
+[23Dec2024 00:41:59.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[23Dec2024 00:43:11.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[23Dec2024 00:44:57.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw moved wrongly!
+[23Dec2024 00:45:35.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[23Dec2024 00:45:42.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[23Dec2024 00:45:54.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[23Dec2024 00:45:58.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: aw lost connection: Disconnected
+[23Dec2024 00:45:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw left the game
+[23Dec2024 00:46:09.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.82.85.255:59915] logged in with entity id 90902 at (333.82075357398713, 63.0, -47.2474097799079)
+[23Dec2024 00:46:09.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[23Dec2024 00:46:09.453] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[23Dec2024 00:46:11.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2365ms or 47 ticks behind
+[23Dec2024 00:46:29.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[23Dec2024 00:46:30.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Summoned new Zombie]
+[23Dec2024 00:46:32.206] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2006, y=122, z=-6409}
+[23Dec2024 00:46:32.216] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2007, y=120, z=-6411}
+[23Dec2024 00:46:32.217] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2007, y=121, z=-6411}
+[23Dec2024 00:46:32.217] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2007, y=122, z=-6411}
+[23Dec2024 00:46:47.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2650ms or 53 ticks behind
+[23Dec2024 00:46:52.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw got cut in half by a Mechanical Saw
+[23Dec2024 00:47:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Luzbel1t0 to Nucaraga]
+[23Dec2024 00:47:08.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=2, y=82, z=4}
+[23Dec2024 00:47:09.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7325ms or 146 ticks behind
+[23Dec2024 00:47:12.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported aw to xDogSaur]
+[23Dec2024 00:47:18.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <aw> a
+[23Dec2024 00:47:27.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3085ms or 61 ticks behind
+[23Dec2024 00:47:44.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[23Dec2024 00:48:02.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
+[23Dec2024 00:48:29.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[23Dec2024 00:48:46.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[23Dec2024 00:49:03.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[23Dec2024 00:50:27.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Dec2024 00:51:26.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 00:51:51.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[23Dec2024 00:52:04.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was pierced by Necromancer's icicle
