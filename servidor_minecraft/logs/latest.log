@@ -5337,3 +5337,74 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated array at 
 [23Dec2024 13:05:42.551] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [epicfight:network_manager,alexscaves:main_channel,soul_like_armors_reworked:soul_like_armors_reworked,iceandfire:main_channel] rejected their client side version number
 [23Dec2024 13:05:42.552] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [23Dec2024 13:05:42.578] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2995e856[id=<null>,name=Kuro,properties={},legacy=false] (/127.63.148.58:38335) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 13:12:00.728] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:gem is
+[23Dec2024 13:12:00.734] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:simple_reforging_table is
+[23Dec2024 13:12:00.734] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:reforging_table is
+[23Dec2024 13:12:00.735] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:seashelf is
+[23Dec2024 13:12:00.736] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:hellshelf is
+[23Dec2024 13:12:00.738] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:beeshelf is
+[23Dec2024 13:12:00.741] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:potion_charm is
+[23Dec2024 13:12:00.742] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/84e914a5-d16e-3dd5-bfa9-e9048641639a.json: Don't know what apotheosis:gem is
+[23Dec2024 13:12:00.799] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:spawner/capturing' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.801] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/rare' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.802] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/root' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.802] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/random' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.803] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/chests' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.804] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/gem' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.805] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/enchanter' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.807] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/epic' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.807] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/boss' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.808] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/rare_gem' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.811] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:affix/mythic_gem' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.811] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/30ench' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.811] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/bookshelf' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.815] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/hellshelf' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.815] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/quanta100' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.815] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/quanta50' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.815] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/seashelf' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.816] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'apotheosis:enchanting/enchanting_stats' in progress file ./world/advancements/84e914a5-d16e-3dd5-bfa9-e9048641639a.json - it doesn't exist anymore?
+[23Dec2024 13:12:00.902] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:arrow_damage'
+[23Dec2024 13:12:00.903] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:creative_flight'
+[23Dec2024 13:12:00.903] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:experience_gained'
+[23Dec2024 13:12:00.904] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:draw_speed'
+[23Dec2024 13:12:00.904] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:mining_speed'
+[23Dec2024 13:12:00.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xDogSaur[/127.40.116.104:48857] logged in with entity id 110 at (355.0, 63.0, -40.0)
+[23Dec2024 13:12:01.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur joined the game
+[23Dec2024 13:12:01.642] [Server thread/INFO] [Jade/]: Syncing config to xDogSaur (84e914a5-d16e-3dd5-bfa9-e9048641639a)
+[23Dec2024 13:12:01.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has made the advancement [Ice and Fire]
+[23Dec2024 13:12:02.481] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:02.491] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:02.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23Dec2024 13:12:03.516] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/120, l='ServerLevel[world]', x=355.00, y=64.32, z=-40.00, removed=DISCARDED]
+[23Dec2024 13:12:03.907] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:04.043] [Server thread/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"apotheosis:gem",tag:{affix_data:{rarity:"apotheosis:rare"},gem:"apotheosis:overworld/royalty"}}
+[23Dec2024 13:12:05.582] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:crit_damage'
+[23Dec2024 13:12:05.582] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:prot_pierce'
+[23Dec2024 13:12:06.135] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:06.385] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:experience_gained'
+[23Dec2024 13:12:06.386] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'attributeslib:mining_speed'
+[23Dec2024 13:12:06.948] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:07.167] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:08.238] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:08.500] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:10.677] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:11.177] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:13.087] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:13.239] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:13.512] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:14.233] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:14.253] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:15.247] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:16.267] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:16.535] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:16.759] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:17.581] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:18.395] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:18.636] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:boss_spawner
+[23Dec2024 13:12:19.309] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:12:30.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12241ms or 244 ticks behind
+[23Dec2024 13:15:16.216] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:15:30.452] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id apotheosis:anvil
+[23Dec2024 13:16:29.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Battle]
+[23Dec2024 13:20:03.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xDogSaur lost connection: Disconnected
+[23Dec2024 13:20:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur left the game
