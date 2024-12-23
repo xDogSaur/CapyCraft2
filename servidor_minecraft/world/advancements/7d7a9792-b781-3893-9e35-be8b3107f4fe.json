@@ -6972,6 +6972,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2024-12-23 04:51:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-23 04:32:58 +0000"
@@ -7144,6 +7150,12 @@
   "refurbished_furniture:recipes/misc/constructing/birch_table": {
     "criteria": {
       "has_birch_planks": "2024-12-23 04:32:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2024-12-23 04:51:10 +0000"
     },
     "done": true
   },
