@@ -8473,9 +8473,21 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-23 00:30:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
     "criteria": {
       "has_tool_swapper_upgrade": "2024-12-23 00:06:30 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2024-12-23 00:34:07 +0000"
     },
     "done": true
   },

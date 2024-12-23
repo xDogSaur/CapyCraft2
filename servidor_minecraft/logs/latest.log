@@ -52,3 +52,30 @@
 [23Dec2024 00:30:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa joined the game
 [23Dec2024 00:30:58.975] [Server thread/INFO] [Jade/]: Syncing config to Afarfa (7d7a9792-b781-3893-9e35-be8b3107f4fe)
 [23Dec2024 00:31:00.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[23Dec2024 00:31:40.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Dec2024 00:31:58.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2669ms or 53 ticks behind
+[23Dec2024 00:32:37.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 00:33:11.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 was slain by Mimic
+[23Dec2024 00:33:15.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [Chest Slayer]
+[23Dec2024 00:38:26.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: aw[/127.82.85.255:56115] logged in with entity id 87490 at (3.5, 78.0, 0.5)
+[23Dec2024 00:38:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw joined the game
+[23Dec2024 00:38:26.279] [Server thread/INFO] [Jade/]: Syncing config to aw (90b84ac2-daee-33a4-860d-84877eae8960)
+[23Dec2024 00:38:31.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[23Dec2024 00:38:49.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Dec2024 00:39:08.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 00:39:15.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Dec2024 00:39:33.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[23Dec2024 00:39:35.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 00:39:40.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported aw to xDogSaur]
+[23Dec2024 00:40:27.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xDogSaur> a
+[23Dec2024 00:40:34.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> atatat
+[23Dec2024 00:40:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:36.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> at
+[23Dec2024 00:40:36.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:36.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:37.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:38.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:38.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:39.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nucaraga> a
+[23Dec2024 00:40:43.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Stone Age]
