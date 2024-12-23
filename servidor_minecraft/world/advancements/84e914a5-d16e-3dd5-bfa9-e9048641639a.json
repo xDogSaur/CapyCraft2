@@ -1272,6 +1272,7 @@
       "golden_apple": "2024-12-21 22:48:03 +0000",
       "rotten_flesh": "2024-12-21 21:38:57 +0000",
       "glow_berries": "2024-12-21 22:49:57 +0000",
+      "golden_carrot": "2024-12-23 02:29:25 +0000",
       "cod": "2024-12-22 00:43:35 +0000",
       "carrot": "2024-12-22 00:19:00 +0000"
     },
@@ -8578,6 +8579,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-23 01:36:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-23 02:29:22 +0000"
     },
     "done": true
   },
