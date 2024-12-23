@@ -310,3 +310,14 @@
 [23Dec2024 01:07:14.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
 [23Dec2024 01:07:33.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [23Dec2024 01:09:56.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has reached the goal [Self-Driving Cart]
+[23Dec2024 01:12:44.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Dec2024 01:16:10.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw has made the advancement [Diamonds!]
+[23Dec2024 01:20:28.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: aw was slain by Zombie
+[23Dec2024 01:20:28.469] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 01:20:28.469] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[23Dec2024 01:20:28.469] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 01:20:28.469] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 01:20:28.470] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[23Dec2024 01:22:10.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luzbel1t0[/127.249.170.157:43179] logged in with entity id 106116 at (592.0535327934197, -8.0, 180.27899894428265)
+[23Dec2024 01:22:10.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luzbel1t0 joined the game
+[23Dec2024 01:22:10.745] [Server thread/INFO] [Jade/]: Syncing config to Luzbel1t0 (df22fe92-577b-395e-b9ac-6fbd2f188cdf)
