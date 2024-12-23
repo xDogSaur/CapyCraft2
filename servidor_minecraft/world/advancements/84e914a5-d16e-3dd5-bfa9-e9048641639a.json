@@ -8520,6 +8520,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2024-12-23 04:36:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
@@ -8594,6 +8600,7 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2024-12-23 04:36:06 +0000",
       "torchberries": "2024-12-23 03:44:01 +0000"
     },
     "done": false
@@ -8607,6 +8614,12 @@
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_burning_blossom": "2024-12-23 03:16:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2024-12-23 04:29:58 +0000"
     },
     "done": true
   },
@@ -8763,9 +8776,10 @@
   },
   "twilightforest:fiery_set": {
     "criteria": {
-      "fiery_sword": "2024-12-23 04:06:11 +0000"
+      "fiery_sword": "2024-12-23 04:06:11 +0000",
+      "fiery_leggings": "2024-12-23 04:32:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
@@ -8782,6 +8796,24 @@
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-23 04:33:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2024-12-23 04:29:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2024-12-23 04:36:44 +0000"
     },
     "done": true
   },
@@ -8959,6 +8991,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2024-12-23 04:39:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2024-12-23 02:29:22 +0000"
@@ -8977,11 +9015,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2024-12-23 04:33:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2024-12-23 04:22:49 +0000"
     },
     "done": false
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-23 04:31:03 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
@@ -9046,6 +9096,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-23 04:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-23 04:35:39 +0000"
     },
     "done": true
   },
@@ -9127,6 +9183,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2024-12-23 04:29:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_venison": {
     "criteria": {
       "has_food": "2024-12-23 03:46:22 +0000"
@@ -9154,6 +9216,12 @@
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-23 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2024-12-23 04:41:21 +0000"
     },
     "done": true
   },
@@ -9220,6 +9288,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-23 04:05:59 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-23 04:33:53 +0000"
     },
     "done": true
   },
@@ -9292,6 +9366,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 04:07:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2024-12-23 04:33:47 +0000"
     },
     "done": true
   },

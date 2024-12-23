@@ -857,3 +857,43 @@
 [23Dec2024 04:25:28.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
 [23Dec2024 04:27:14.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has made the advancement [With Fire It Writes]
 [23Dec2024 04:28:25.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[23Dec2024 04:30:03.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was squeezed to death by Pinch Beetle
+[23Dec2024 04:30:13.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:30:22.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Maze Slime
+[23Dec2024 04:30:30.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
+[23Dec2024 04:30:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 04:30:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was squeezed to death by Pinch Beetle
+[23Dec2024 04:30:46.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga was slain by Maze Slime
+[23Dec2024 04:30:48.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[23Dec2024 04:30:48.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 04:30:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:30:58.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Nucaraga to xDogSaur]
+[23Dec2024 04:31:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was squeezed to death by Pinch Beetle
+[23Dec2024 04:31:50.862] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Dec2024 04:31:50.863] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[23Dec2024 04:31:50.863] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Dec2024 04:31:50.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Dec2024 04:31:50.864] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[23Dec2024 04:31:55.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:32:14.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xDogSaur has completed the challenge [Gallons of Blood and Tears]
+[23Dec2024 04:32:31.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa was squeezed to death by Pinch Beetle
+[23Dec2024 04:32:32.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[23Dec2024 04:32:39.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2682ms or 53 ticks behind
+[23Dec2024 04:32:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:34:03.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has completed the challenge [Gallons of Blood and Tears]
+[23Dec2024 04:34:16.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Afarfa]
+[23Dec2024 04:35:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Afarfa has completed the challenge [Gallons of Blood and Tears]
+[23Dec2024 04:38:02.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
+[23Dec2024 04:38:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported Afarfa to xDogSaur]
+[23Dec2024 04:38:48.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[23Dec2024 04:38:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 04:39:02.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Spectator Mode]
+[23Dec2024 04:39:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 04:43:31.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2627, y=-23, z=-744} BlockPos{x=2619, y=-23, z=-747}
+[23Dec2024 04:43:32.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2627, y=-23, z=-744} BlockPos{x=2619, y=-23, z=-746}
+[23Dec2024 04:43:32.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2627, y=-23, z=-744} BlockPos{x=2619, y=-23, z=-746}
+[23Dec2024 04:43:41.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nucaraga has reached the goal [Mighty Stroganoff]
+[23Dec2024 04:44:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 04:45:46.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Survival Mode]
+[23Dec2024 04:46:41.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Set own game mode to Creative Mode]
+[23Dec2024 04:48:44.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xDogSaur: Teleported xDogSaur to Nucaraga]
