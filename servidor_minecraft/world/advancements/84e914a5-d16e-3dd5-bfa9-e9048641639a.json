@@ -4128,7 +4128,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-23 01:51:43 +0000",
       "onion": "2024-12-22 07:45:03 +0000",
+      "tomato": "2024-12-23 01:52:41 +0000",
       "sugar_cane": "2024-12-21 22:25:39 +0000",
       "wheat": "2024-12-22 00:18:49 +0000",
       "carrot": "2024-12-21 22:44:22 +0000"
@@ -8549,6 +8551,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-23 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2024-12-23 01:57:38 +0000"
     },
     "done": true
   },
